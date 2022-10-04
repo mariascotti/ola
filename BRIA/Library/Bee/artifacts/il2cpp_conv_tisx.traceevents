@@ -1,0 +1,1870 @@
+{ "pid": "il2cpp_in_graph", "ph":"M", "name": "process_name", "args": {"name": "il2cpp_in_graph"} },
+{ "pid": "il2cpp_in_graph", "ph":"M", "name": "process_sort_index", "args": {"sort_index": 2} },
+{ "pid": "il2cpp_in_graph", "tid": 1, "ph":"M", "name": "thread_name", "args": {"name": "Main thread"} },
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700126272387,"dur": 3387448, "ph":"X", "name": "il2cpp.exe"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700126321146,"dur": 3327845, "ph":"X", "name": "ConvertAssemblies"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700126347445,"dur": 496036, "ph":"X", "name": "InitializePhase"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700126358795,"dur": 59439, "ph":"X", "name": "LoadDeferred"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700126378128,"dur": 25146, "ph":"X", "name": "mscorlib.dll"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700126403352,"dur": 12089, "ph":"X", "name": "UnityEngine.SharedInternalsModule.dll"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700126470016,"dur": 150218, "ph":"X", "name": "Parallel Stage 1"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700126480832,"dur": 139066, "ph":"X", "name": "mscorlib"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700126482301,"dur": 105234, "ph":"X", "name": "ImmediateRead"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700126587535,"dur": 16012, "ph":"X", "name": "BuildAssemblyDefinitionTable"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700126603548,"dur": 16349, "ph":"X", "name": "ReferencesCollector"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700126623726,"dur": 6819, "ph":"X", "name": "Build Global Definitions"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700126651157,"dur": 47101, "ph":"X", "name": "ResolveReferences", "args": { "detail": "mscorlib"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700126699109,"dur": 10769, "ph":"X", "name": "ResolveAssemblyTypeReferences"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700126709879,"dur": 85748, "ph":"X", "name": "Parallel Stage 2"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700126709879,"dur": 85748, "ph":"X", "name": "DefinitionPopulater"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700126722499,"dur": 3519, "ph":"X", "name": "<Module>"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700126726300,"dur": 18281, "ph":"X", "name": "Runtime"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700126745130,"dur": 1639, "ph":"X", "name": "TimeZoneInfo"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700126748203,"dur": 1224, "ph":"X", "name": "Convert"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700126750180,"dur": 2853, "ph":"X", "name": "Number"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700126757694,"dur": 1114, "ph":"X", "name": "Task"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700126763600,"dur": 4031, "ph":"X", "name": "MemberReference"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700126769267,"dur": 2606, "ph":"X", "name": "ObjectReader"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700126796249,"dur": 10737, "ph":"X", "name": "COM and Interop Support"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700126796250,"dur": 2215, "ph":"X", "name": "WindowsRuntimeProjectionsBuilder"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700126798466,"dur": 8519, "ph":"X", "name": "ComAndWindowsRuntimeSupport"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700126799132,"dur": 6536, "ph":"X", "name": "mscorlib"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700126807342,"dur": 13032, "ph":"X", "name": "DefinitionInflater"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700126823250,"dur": 2515, "ph":"X", "name": "ReferencePopulater"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700126824186,"dur": 1577, "ph":"X", "name": "Methods"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700126826474,"dur": 8492, "ph":"X", "name": "ReferencePopulater"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700126826945,"dur": 2156, "ph":"X", "name": "Methods"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700126829102,"dur": 5863, "ph":"X", "name": "Fields"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700126844520,"dur": 40373, "ph":"X", "name": "SetupPhase"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700126845052,"dur": 32611, "ph":"X", "name": "RegisterCorlib"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700126877972,"dur": 5750, "ph":"X", "name": "WriteResources"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700126883725,"dur": 1168, "ph":"X", "name": "Build Results"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700126889048,"dur": 287495, "ph":"X", "name": "PrimaryCollectionPhase"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700126890543,"dur": 17944, "ph":"X", "name": "Create Scheduler"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700126894746,"dur": 6802, "ph":"X", "name": "ForkedContextScope.Setup"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700126908488,"dur": 25251, "ph":"X", "name": "Scheduling"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700126934379,"dur": 201345, "ph":"X", "name": "PhaseWorkScheduler.WaitForEmptyQueue"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700127136190,"dur": 1304, "ph":"X", "name": "PhaseWorkScheduler.JoinThreads"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700127138788,"dur": 35080, "ph":"X", "name": "ForkedContextScope.MergeBack"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700127149104,"dur": 9293, "ph":"X", "name": "ForkedContextScope.MergingComponent", "args": { "detail": "Unity.IL2CPP.Contexts.Components.TypeCollectorComponent"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700127173892,"dur": 2650, "ph":"X", "name": "Build Results"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700127221736,"dur": 2147982, "ph":"X", "name": "PrimaryWritePhase"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700127222255,"dur": 4178, "ph":"X", "name": "Create Scheduler"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700127226434,"dur": 2833, "ph":"X", "name": "Scheduling"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700127229274,"dur": 2115283, "ph":"X", "name": "PhaseWorkScheduler.WaitForEmptyQueue"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700129345022,"dur": 7586, "ph":"X", "name": "ForkedContextScope.MergeBack"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700129345236,"dur": 7343, "ph":"X", "name": "ForkedContextScope.MergingComponent", "args": { "detail": "Unity.IL2CPP.Contexts.Components.MetadataUsageCollectorComponent"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700129352618,"dur": 17100, "ph":"X", "name": "Build Results"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700129363224,"dur": 5907, "ph":"X", "name": "Unity.IL2CPP.Metadata.GenericMethodCollectorComponent"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700129371687,"dur": 32167, "ph":"X", "name": "SecondaryCollectionPhase"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700129371688,"dur": 32164, "ph":"X", "name": "Scheduling"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700129372031,"dur": 1759, "ph":"X", "name": "Create Scheduler"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700129380386,"dur": 23057, "ph":"X", "name": "PhaseWorkScheduler.WaitForEmptyQueue"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700129404004,"dur": 238660, "ph":"X", "name": "SecondaryWritePhase"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700129404470,"dur": 1406, "ph":"X", "name": "Part1"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700129406303,"dur": 11058, "ph":"X", "name": "Part3"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700129406304,"dur": 11056, "ph":"X", "name": "Scheduling"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700129406654,"dur": 10705, "ph":"X", "name": "WriteUnresolvedStubs"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700129408454,"dur": 8904, "ph":"X", "name": "UnresolvedVirtualCallStubs.cpp"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700129418516,"dur": 224148, "ph":"X", "name": "Part4"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700129418517,"dur": 223818, "ph":"X", "name": "Scheduling"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700129418819,"dur": 1681, "ph":"X", "name": "Create Scheduler"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700129468229,"dur": 1678, "ph":"X", "name": "Schedule Windows RUntime Tables"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700129504634,"dur": 130689, "ph":"X", "name": "PhaseWorkScheduler.WaitForEmptyQueue"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700129635580,"dur": 6731, "ph":"X", "name": "ForkedContextScope.MergeBack"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700129643316,"dur": 2388, "ph":"X", "name": "CompletionPhase"},
+{ "pid": "il2cpp_in_graph", "tid": 1,"ts": 1663700129650711,"dur": 5419, "ph":"X", "name": "Write Analytics"},
+{ "pid": "il2cpp_in_graph", "tid": 11, "ph":"M", "name": "thread_name", "args": {"name": ""} },
+{ "pid": "il2cpp_in_graph", "tid": 11,"ts": 1663700126378137,"dur": 37110, "ph":"X", "name": "UnityEngine.PhysicsModule.dll"},
+{ "pid": "il2cpp_in_graph", "tid": 11,"ts": 1663700126480821,"dur": 93356, "ph":"X", "name": "System"},
+{ "pid": "il2cpp_in_graph", "tid": 11,"ts": 1663700126488376,"dur": 48339, "ph":"X", "name": "ImmediateRead"},
+{ "pid": "il2cpp_in_graph", "tid": 11,"ts": 1663700126536715,"dur": 30331, "ph":"X", "name": "BuildAssemblyDefinitionTable"},
+{ "pid": "il2cpp_in_graph", "tid": 11,"ts": 1663700126567046,"dur": 7130, "ph":"X", "name": "ReferencesCollector"},
+{ "pid": "il2cpp_in_graph", "tid": 11,"ts": 1663700126651199,"dur": 26250, "ph":"X", "name": "ResolveReferences", "args": { "detail": "UnityEngine.SpatialTracking"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 11,"ts": 1663700126722516,"dur": 21533, "ph":"X", "name": "Sys"},
+{ "pid": "il2cpp_in_graph", "tid": 11,"ts": 1663700126745194,"dur": 24456, "ph":"X", "name": "AdjustmentRule"},
+{ "pid": "il2cpp_in_graph", "tid": 11,"ts": 1663700127149085,"dur": 6368, "ph":"X", "name": "ForkedContextScope.MergingComponent", "args": { "detail": "Unity.IL2CPP.Contexts.Components.MethodCollectorComponent"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 11,"ts": 1663700129346089,"dur": 1733, "ph":"X", "name": "ForkedContextScope.MergingComponent", "args": { "detail": "Unity.IL2CPP.Contexts.Components.TypeCollectorComponent"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 11,"ts": 1663700129348022,"dur": 1010, "ph":"X", "name": "ForkedContextScope.MergingComponent", "args": { "detail": "Unity.IL2CPP.Naming.NamingComponent"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 4, "ph":"M", "name": "thread_name", "args": {"name": ""} },
+{ "pid": "il2cpp_in_graph", "tid": 4,"ts": 1663700126378159,"dur": 37023, "ph":"X", "name": "UnityEngine.CoreModule.dll"},
+{ "pid": "il2cpp_in_graph", "tid": 4,"ts": 1663700126480838,"dur": 96863, "ph":"X", "name": "UnityEngine.CoreModule"},
+{ "pid": "il2cpp_in_graph", "tid": 4,"ts": 1663700126489055,"dur": 76955, "ph":"X", "name": "ImmediateRead"},
+{ "pid": "il2cpp_in_graph", "tid": 4,"ts": 1663700126566010,"dur": 5054, "ph":"X", "name": "BuildAssemblyDefinitionTable"},
+{ "pid": "il2cpp_in_graph", "tid": 4,"ts": 1663700126571065,"dur": 6635, "ph":"X", "name": "ReferencesCollector"},
+{ "pid": "il2cpp_in_graph", "tid": 4,"ts": 1663700126651214,"dur": 24064, "ph":"X", "name": "ResolveReferences", "args": { "detail": "UnityEngine.AudioModule"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 4,"ts": 1663700126675860,"dur": 1370, "ph":"X", "name": "ResolveReferences", "args": { "detail": "Assembly-CSharp"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 4,"ts": 1663700126724125,"dur": 37512, "ph":"X", "name": "DirectoryEntry"},
+{ "pid": "il2cpp_in_graph", "tid": 4,"ts": 1663700127150228,"dur": 9167, "ph":"X", "name": "ForkedContextScope.MergingComponent", "args": { "detail": "Unity.IL2CPP.Contexts.Components.VTableBuilderComponent"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 4,"ts": 1663700129363230,"dur": 2134, "ph":"X", "name": "Unity.IL2CPP.Contexts.Components.TypeCollectorComponent"},
+{ "pid": "il2cpp_in_graph", "tid": 10, "ph":"M", "name": "thread_name", "args": {"name": ""} },
+{ "pid": "il2cpp_in_graph", "tid": 10,"ts": 1663700126378206,"dur": 25006, "ph":"X", "name": "System.dll"},
+{ "pid": "il2cpp_in_graph", "tid": 10,"ts": 1663700126403696,"dur": 11455, "ph":"X", "name": "UnityEngine.SubsystemsModule.dll"},
+{ "pid": "il2cpp_in_graph", "tid": 10,"ts": 1663700126480812,"dur": 94054, "ph":"X", "name": "UnityEngine.AndroidJNIModule"},
+{ "pid": "il2cpp_in_graph", "tid": 10,"ts": 1663700126488402,"dur": 60743, "ph":"X", "name": "ImmediateRead"},
+{ "pid": "il2cpp_in_graph", "tid": 10,"ts": 1663700126549146,"dur": 19424, "ph":"X", "name": "BuildAssemblyDefinitionTable"},
+{ "pid": "il2cpp_in_graph", "tid": 10,"ts": 1663700126568571,"dur": 6294, "ph":"X", "name": "ReferencesCollector"},
+{ "pid": "il2cpp_in_graph", "tid": 10,"ts": 1663700126651194,"dur": 10953, "ph":"X", "name": "ResolveReferences", "args": { "detail": "System.Xml"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 10,"ts": 1663700126662220,"dur": 21245, "ph":"X", "name": "ResolveReferences", "args": { "detail": "UnityEngine.CoreModule"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 10,"ts": 1663700126683468,"dur": 1678, "ph":"X", "name": "ResolveReferences", "args": { "detail": "System"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 10,"ts": 1663700126722502,"dur": 38063, "ph":"X", "name": "Interop"},
+{ "pid": "il2cpp_in_graph", "tid": 10,"ts": 1663700126771486,"dur": 4250, "ph":"X", "name": "SupportedRenderingFeatures"},
+{ "pid": "il2cpp_in_graph", "tid": 10,"ts": 1663700127149095,"dur": 7368, "ph":"X", "name": "ForkedContextScope.MergingComponent", "args": { "detail": "Unity.IL2CPP.Contexts.Components.VirtualCallCollectorComponent"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 10,"ts": 1663700129363234,"dur": 5622, "ph":"X", "name": "Unity.IL2CPP.Contexts.Components.ReversePInvokeWrapperComponent"},
+{ "pid": "il2cpp_in_graph", "tid": 12, "ph":"M", "name": "thread_name", "args": {"name": ""} },
+{ "pid": "il2cpp_in_graph", "tid": 12,"ts": 1663700126378232,"dur": 37051, "ph":"X", "name": "UnityEngine.AndroidJNIModule.dll"},
+{ "pid": "il2cpp_in_graph", "tid": 12,"ts": 1663700126480810,"dur": 86783, "ph":"X", "name": "UnityEngine"},
+{ "pid": "il2cpp_in_graph", "tid": 12,"ts": 1663700126482261,"dur": 40011, "ph":"X", "name": "ImmediateRead"},
+{ "pid": "il2cpp_in_graph", "tid": 12,"ts": 1663700126522273,"dur": 22000, "ph":"X", "name": "BuildAssemblyDefinitionTable"},
+{ "pid": "il2cpp_in_graph", "tid": 12,"ts": 1663700126544273,"dur": 23320, "ph":"X", "name": "ReferencesCollector"},
+{ "pid": "il2cpp_in_graph", "tid": 12,"ts": 1663700126567600,"dur": 8288, "ph":"X", "name": "System.Core"},
+{ "pid": "il2cpp_in_graph", "tid": 12,"ts": 1663700126568340,"dur": 7548, "ph":"X", "name": "ReferencesCollector"},
+{ "pid": "il2cpp_in_graph", "tid": 12,"ts": 1663700126651203,"dur": 24577, "ph":"X", "name": "ResolveReferences", "args": { "detail": "UnityEngine.PhysicsModule"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 12,"ts": 1663700126675783,"dur": 7740, "ph":"X", "name": "ResolveReferences", "args": { "detail": "System.Core"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 12,"ts": 1663700126722506,"dur": 3561, "ph":"X", "name": "Error"},
+{ "pid": "il2cpp_in_graph", "tid": 12,"ts": 1663700126726068,"dur": 18535, "ph":"X", "name": "SR"},
+{ "pid": "il2cpp_in_graph", "tid": 12,"ts": 1663700126744871,"dur": 2721, "ph":"X", "name": "String"},
+{ "pid": "il2cpp_in_graph", "tid": 12,"ts": 1663700126748379,"dur": 1731, "ph":"X", "name": "DateTimeParse"},
+{ "pid": "il2cpp_in_graph", "tid": 12,"ts": 1663700126751442,"dur": 1354, "ph":"X", "name": "Array"},
+{ "pid": "il2cpp_in_graph", "tid": 12,"ts": 1663700126760199,"dur": 1172, "ph":"X", "name": "UTF8Encoding"},
+{ "pid": "il2cpp_in_graph", "tid": 12,"ts": 1663700126769914,"dur": 1147, "ph":"X", "name": "DateTimeFormatInfo"},
+{ "pid": "il2cpp_in_graph", "tid": 12,"ts": 1663700126772951,"dur": 9950, "ph":"X", "name": "Uri"},
+{ "pid": "il2cpp_in_graph", "tid": 12,"ts": 1663700126785848,"dur": 2156, "ph":"X", "name": "AndroidJNISafe"},
+{ "pid": "il2cpp_in_graph", "tid": 12,"ts": 1663700126788511,"dur": 1988, "ph":"X", "name": "AndroidJavaObject"},
+{ "pid": "il2cpp_in_graph", "tid": 12,"ts": 1663700126790953,"dur": 2144, "ph":"X", "name": "_AndroidJNIHelper"},
+{ "pid": "il2cpp_in_graph", "tid": 12,"ts": 1663700126794152,"dur": 1205, "ph":"X", "name": "PermissionCallbacks"},
+{ "pid": "il2cpp_in_graph", "tid": 12,"ts": 1663700127149114,"dur": 7329, "ph":"X", "name": "ForkedContextScope.MergingComponent", "args": { "detail": "Unity.IL2CPP.Metadata.GenericMethodCollectorComponent"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 8, "ph":"M", "name": "thread_name", "args": {"name": ""} },
+{ "pid": "il2cpp_in_graph", "tid": 8,"ts": 1663700126378260,"dur": 36951, "ph":"X", "name": "UnityEngine.dll"},
+{ "pid": "il2cpp_in_graph", "tid": 8,"ts": 1663700126480795,"dur": 92221, "ph":"X", "name": "UnityEngine.XRModule"},
+{ "pid": "il2cpp_in_graph", "tid": 8,"ts": 1663700126488777,"dur": 58167, "ph":"X", "name": "ImmediateRead"},
+{ "pid": "il2cpp_in_graph", "tid": 8,"ts": 1663700126546945,"dur": 19412, "ph":"X", "name": "BuildAssemblyDefinitionTable"},
+{ "pid": "il2cpp_in_graph", "tid": 8,"ts": 1663700126566357,"dur": 6659, "ph":"X", "name": "ReferencesCollector"},
+{ "pid": "il2cpp_in_graph", "tid": 8,"ts": 1663700126651213,"dur": 25874, "ph":"X", "name": "ResolveReferences", "args": { "detail": "UnityEngine.SubsystemsModule"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 8,"ts": 1663700126722510,"dur": 39156, "ph":"X", "name": "ErrorInfo"},
+{ "pid": "il2cpp_in_graph", "tid": 8,"ts": 1663700126766553,"dur": 1067, "ph":"X", "name": "CultureInfo"},
+{ "pid": "il2cpp_in_graph", "tid": 8,"ts": 1663700127149083,"dur": 1352, "ph":"X", "name": "ForkedContextScope.MergingComponent", "args": { "detail": "Unity.IL2CPP.Symbols.SymbolsCollector"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 9, "ph":"M", "name": "thread_name", "args": {"name": ""} },
+{ "pid": "il2cpp_in_graph", "tid": 9,"ts": 1663700126378295,"dur": 37413, "ph":"X", "name": "UnityEngine.XRModule.dll"},
+{ "pid": "il2cpp_in_graph", "tid": 9,"ts": 1663700126480810,"dur": 92279, "ph":"X", "name": "UnityEngine.PhysicsModule"},
+{ "pid": "il2cpp_in_graph", "tid": 9,"ts": 1663700126488285,"dur": 59145, "ph":"X", "name": "ImmediateRead"},
+{ "pid": "il2cpp_in_graph", "tid": 9,"ts": 1663700126547430,"dur": 18552, "ph":"X", "name": "BuildAssemblyDefinitionTable"},
+{ "pid": "il2cpp_in_graph", "tid": 9,"ts": 1663700126565983,"dur": 7106, "ph":"X", "name": "ReferencesCollector"},
+{ "pid": "il2cpp_in_graph", "tid": 9,"ts": 1663700126574909,"dur": 1083, "ph":"X", "name": "Mono.Security"},
+{ "pid": "il2cpp_in_graph", "tid": 9,"ts": 1663700126651207,"dur": 26016, "ph":"X", "name": "ResolveReferences", "args": { "detail": "UnityEngine.AndroidJNIModule"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 9,"ts": 1663700126722519,"dur": 3516, "ph":"X", "name": "NodeType"},
+{ "pid": "il2cpp_in_graph", "tid": 9,"ts": 1663700126726038,"dur": 17799, "ph":"X", "name": "Locale"},
+{ "pid": "il2cpp_in_graph", "tid": 9,"ts": 1663700126744713,"dur": 1786, "ph":"X", "name": "SimpleCollator"},
+{ "pid": "il2cpp_in_graph", "tid": 9,"ts": 1663700126755380,"dur": 2184, "ph":"X", "name": "RuntimeType"},
+{ "pid": "il2cpp_in_graph", "tid": 9,"ts": 1663700126767670,"dur": 1545, "ph":"X", "name": "Vector`1"},
+{ "pid": "il2cpp_in_graph", "tid": 9,"ts": 1663700126769483,"dur": 5254, "ph":"X", "name": "NativeArrayUnsafeUtility"},
+{ "pid": "il2cpp_in_graph", "tid": 9,"ts": 1663700126803337,"dur": 1960, "ph":"X", "name": "__Generated"},
+{ "pid": "il2cpp_in_graph", "tid": 9,"ts": 1663700127150164,"dur": 5672, "ph":"X", "name": "ForkedContextScope.MergingComponent", "args": { "detail": "Unity.IL2CPP.Naming.NamingComponent"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 9,"ts": 1663700127150925,"dur": 4893, "ph":"X", "name": "Merging Cache", "args": { "detail": "_stringLiteralCache"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 9,"ts": 1663700129363227,"dur": 6343, "ph":"X", "name": "Unity.IL2CPP.Contexts.Components.MethodCollectorComponent"},
+{ "pid": "il2cpp_in_graph", "tid": 16, "ph":"M", "name": "thread_name", "args": {"name": "PhaseWorker"} },
+{ "pid": "il2cpp_in_graph", "tid": 16,"ts": 1663700126911224,"dur": 34869, "ph":"X", "name": "Create Forked Context"},
+{ "pid": "il2cpp_in_graph", "tid": 16,"ts": 1663700126911241,"dur": 2746, "ph":"X", "name": "Fork Component", "args": { "detail": "Unity.IL2CPP.Contexts.Components.MetadataUsageCollectorComponent"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 16,"ts": 1663700126913997,"dur": 1036, "ph":"X", "name": "Fork Component", "args": { "detail": "Unity.IL2CPP.Contexts.Components.MethodCollectorComponent"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 16,"ts": 1663700126915041,"dur": 1256, "ph":"X", "name": "Fork Component", "args": { "detail": "Unity.IL2CPP.Symbols.SymbolsCollector"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 16,"ts": 1663700126916313,"dur": 1009, "ph":"X", "name": "Fork Component", "args": { "detail": "Unity.IL2CPP.Contexts.Components.VirtualCallCollectorComponent"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 16,"ts": 1663700126919947,"dur": 1219, "ph":"X", "name": "Fork Component", "args": { "detail": "Unity.IL2CPP.Tiny.TinyTypeCollectorComponent"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 16,"ts": 1663700126929180,"dur": 3465, "ph":"X", "name": "Fork Component", "args": { "detail": "Unity.IL2CPP.Contexts.Components.ObjectFactoryComponent"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 16,"ts": 1663700126943649,"dur": 1017, "ph":"X", "name": "Fork Component", "args": { "detail": "Unity.IL2CPP.Contexts.Components.TypeFactoryComponent"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 16,"ts": 1663700126947930,"dur": 62605, "ph":"X", "name": "Generics Initial Collection"},
+{ "pid": "il2cpp_in_graph", "tid": 16,"ts": 1663700127012104,"dur": 18461, "ph":"X", "name": "Generics Initial Merge"},
+{ "pid": "il2cpp_in_graph", "tid": 16,"ts": 1663700127014913,"dur": 13840, "ph":"X", "name": "GenericCodeFlowGraphCollector.Collect"},
+{ "pid": "il2cpp_in_graph", "tid": 16,"ts": 1663700127014914,"dur": 13577, "ph":"X", "name": "GenericCodeFlowGraphCollector.GetTypesAndMethodsForAnalysis"},
+{ "pid": "il2cpp_in_graph", "tid": 16,"ts": 1663700127030571,"dur": 2301, "ph":"X", "name": "Collect Metadata", "args": { "detail": "System.Core"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 16,"ts": 1663700127030572,"dur": 2300, "ph":"X", "name": "Collect VTables"},
+{ "pid": "il2cpp_in_graph", "tid": 16,"ts": 1663700127032873,"dur": 19098, "ph":"X", "name": "Generic Sharing", "args": { "detail": "System"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 16,"ts": 1663700127053408,"dur": 16109, "ph":"X", "name": "Collecting Attribute Data", "args": { "detail": "System"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 16,"ts": 1663700127070045,"dur": 3775, "ph":"X", "name": "Collect Windows Runtime Data", "args": { "detail": "UnityEngine.CoreModule"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 16,"ts": 1663700127074053,"dur": 1245, "ph":"X", "name": "Collect CCW Marshaling Functions", "args": { "detail": "System"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 16,"ts": 1663700127075897,"dur": 1179, "ph":"X", "name": "Collect Assembly Data", "args": { "detail": "UnityEngine.CoreModule"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 16,"ts": 1663700127077281,"dur": 4071, "ph":"X", "name": "Generics Iteration", "args": { "detail": "0"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 16,"ts": 1663700127081354,"dur": 3117, "ph":"X", "name": "Generics Iteration", "args": { "detail": "0"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 16,"ts": 1663700127085206,"dur": 1865, "ph":"X", "name": "Generics Iteration", "args": { "detail": "0"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 16,"ts": 1663700127088000,"dur": 3744, "ph":"X", "name": "Generics Iteration Merge"},
+{ "pid": "il2cpp_in_graph", "tid": 16,"ts": 1663700127088535,"dur": 2808, "ph":"X", "name": "Merge Results"},
+{ "pid": "il2cpp_in_graph", "tid": 16,"ts": 1663700127091748,"dur": 1283, "ph":"X", "name": "Generics Iteration", "args": { "detail": "0"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 16,"ts": 1663700127094212,"dur": 1515, "ph":"X", "name": "Idle Conversion"},
+{ "pid": "il2cpp_in_graph", "tid": 16,"ts": 1663700127095728,"dur": 2532, "ph":"X", "name": "Idle Conversion"},
+{ "pid": "il2cpp_in_graph", "tid": 16,"ts": 1663700127098269,"dur": 12035, "ph":"X", "name": "Idle Conversion"},
+{ "pid": "il2cpp_in_graph", "tid": 16,"ts": 1663700127110842,"dur": 4373, "ph":"X", "name": "Collect Generic Methods from Types"},
+{ "pid": "il2cpp_in_graph", "tid": 16,"ts": 1663700127115216,"dur": 4334, "ph":"X", "name": "Collect Generic Methods from Types"},
+{ "pid": "il2cpp_in_graph", "tid": 16,"ts": 1663700127119900,"dur": 8145, "ph":"X", "name": "Cache CppNames"},
+{ "pid": "il2cpp_in_graph", "tid": 16,"ts": 1663700127128047,"dur": 4875, "ph":"X", "name": "Cache CppNames"},
+{ "pid": "il2cpp_in_graph", "tid": 16,"ts": 1663700127132925,"dur": 3293, "ph":"X", "name": "Idle Conversion"},
+{ "pid": "il2cpp_in_graph", "tid": 6, "ph":"M", "name": "thread_name", "args": {"name": "PhaseWorker"} },
+{ "pid": "il2cpp_in_graph", "tid": 6,"ts": 1663700126925561,"dur": 20513, "ph":"X", "name": "Create Forked Context"},
+{ "pid": "il2cpp_in_graph", "tid": 6,"ts": 1663700126929180,"dur": 3459, "ph":"X", "name": "Fork Component", "args": { "detail": "Unity.IL2CPP.Contexts.Components.ObjectFactoryComponent"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 6,"ts": 1663700126937239,"dur": 1083, "ph":"X", "name": "Fork Component", "args": { "detail": "Unity.IL2CPP.Naming.NamingComponent"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 6,"ts": 1663700126940879,"dur": 1615, "ph":"X", "name": "Fork Component", "args": { "detail": "Unity.IL2CPP.Contexts.Components.DiagnosticsComponent"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 6,"ts": 1663700126943649,"dur": 1057, "ph":"X", "name": "Fork Component", "args": { "detail": "Unity.IL2CPP.Contexts.Components.TypeFactoryComponent"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 6,"ts": 1663700126947912,"dur": 50934, "ph":"X", "name": "Generics Initial Collection"},
+{ "pid": "il2cpp_in_graph", "tid": 6,"ts": 1663700126998848,"dur": 3379, "ph":"X", "name": "Generics Initial Collection"},
+{ "pid": "il2cpp_in_graph", "tid": 6,"ts": 1663700127002229,"dur": 26321, "ph":"X", "name": "Collect Metadata", "args": { "detail": "System"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 6,"ts": 1663700127002281,"dur": 26269, "ph":"X", "name": "Collect VTables"},
+{ "pid": "il2cpp_in_graph", "tid": 6,"ts": 1663700127028551,"dur": 2448, "ph":"X", "name": "Collect Metadata", "args": { "detail": "UnityEngine.PhysicsModule"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 6,"ts": 1663700127028552,"dur": 2446, "ph":"X", "name": "Collect VTables"},
+{ "pid": "il2cpp_in_graph", "tid": 6,"ts": 1663700127032691,"dur": 51282, "ph":"X", "name": "Generic Sharing", "args": { "detail": "mscorlib"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 6,"ts": 1663700127084553,"dur": 1123, "ph":"X", "name": "Merging Generic Sharing"},
+{ "pid": "il2cpp_in_graph", "tid": 6,"ts": 1663700127086904,"dur": 4848, "ph":"X", "name": "Idle Conversion"},
+{ "pid": "il2cpp_in_graph", "tid": 6,"ts": 1663700127095716,"dur": 2567, "ph":"X", "name": "Idle Conversion"},
+{ "pid": "il2cpp_in_graph", "tid": 6,"ts": 1663700127098284,"dur": 11998, "ph":"X", "name": "Idle Conversion"},
+{ "pid": "il2cpp_in_graph", "tid": 6,"ts": 1663700127110839,"dur": 6439, "ph":"X", "name": "Collect Generic Methods from Types"},
+{ "pid": "il2cpp_in_graph", "tid": 6,"ts": 1663700127117333,"dur": 1955, "ph":"X", "name": "Add Windows Runtime type names"},
+{ "pid": "il2cpp_in_graph", "tid": 6,"ts": 1663700127119642,"dur": 9222, "ph":"X", "name": "Cache CppNames"},
+{ "pid": "il2cpp_in_graph", "tid": 6,"ts": 1663700127130184,"dur": 6182, "ph":"X", "name": "Idle Conversion"},
+{ "pid": "il2cpp_in_graph", "tid": 5, "ph":"M", "name": "thread_name", "args": {"name": "PhaseWorker"} },
+{ "pid": "il2cpp_in_graph", "tid": 5,"ts": 1663700126925562,"dur": 20545, "ph":"X", "name": "Create Forked Context"},
+{ "pid": "il2cpp_in_graph", "tid": 5,"ts": 1663700126929192,"dur": 3457, "ph":"X", "name": "Fork Component", "args": { "detail": "Unity.IL2CPP.Contexts.Components.ObjectFactoryComponent"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 5,"ts": 1663700126943649,"dur": 1316, "ph":"X", "name": "Fork Component", "args": { "detail": "Unity.IL2CPP.Contexts.Components.TypeFactoryComponent"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 5,"ts": 1663700126947906,"dur": 53447, "ph":"X", "name": "Generics Initial Collection"},
+{ "pid": "il2cpp_in_graph", "tid": 5,"ts": 1663700127001518,"dur": 41193, "ph":"X", "name": "Collect Metadata", "args": { "detail": "mscorlib"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 5,"ts": 1663700127002280,"dur": 40431, "ph":"X", "name": "Collect VTables"},
+{ "pid": "il2cpp_in_graph", "tid": 5,"ts": 1663700127042720,"dur": 6798, "ph":"X", "name": "Generic Sharing", "args": { "detail": "UnityEngine.XRModule"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 5,"ts": 1663700127053412,"dur": 16192, "ph":"X", "name": "Collecting Attribute Data", "args": { "detail": "UnityEngine.CoreModule"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 5,"ts": 1663700127070047,"dur": 3187, "ph":"X", "name": "Collect Windows Runtime Data", "args": { "detail": "mscorlib"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 5,"ts": 1663700127073966,"dur": 1962, "ph":"X", "name": "Collect CCW Marshaling Functions", "args": { "detail": "UnityEngine.CoreModule"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 5,"ts": 1663700127077292,"dur": 3903, "ph":"X", "name": "Generics Iteration", "args": { "detail": "0"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 5,"ts": 1663700127081198,"dur": 2316, "ph":"X", "name": "Generics Iteration", "args": { "detail": "0"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 5,"ts": 1663700127083517,"dur": 1776, "ph":"X", "name": "Generics Iteration", "args": { "detail": "0"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 5,"ts": 1663700127086570,"dur": 5181, "ph":"X", "name": "Idle Conversion"},
+{ "pid": "il2cpp_in_graph", "tid": 5,"ts": 1663700127096767,"dur": 13671, "ph":"X", "name": "Idle Conversion"},
+{ "pid": "il2cpp_in_graph", "tid": 5,"ts": 1663700127110843,"dur": 4205, "ph":"X", "name": "Collect Generic Methods from Types"},
+{ "pid": "il2cpp_in_graph", "tid": 5,"ts": 1663700127115050,"dur": 3409, "ph":"X", "name": "Collect Generic Methods from Types"},
+{ "pid": "il2cpp_in_graph", "tid": 5,"ts": 1663700127119647,"dur": 8423, "ph":"X", "name": "Cache CppNames"},
+{ "pid": "il2cpp_in_graph", "tid": 5,"ts": 1663700127130534,"dur": 5670, "ph":"X", "name": "Idle Conversion"},
+{ "pid": "il2cpp_in_graph", "tid": 13, "ph":"M", "name": "thread_name", "args": {"name": "PhaseWorker"} },
+{ "pid": "il2cpp_in_graph", "tid": 13,"ts": 1663700126925571,"dur": 20503, "ph":"X", "name": "Create Forked Context"},
+{ "pid": "il2cpp_in_graph", "tid": 13,"ts": 1663700126929196,"dur": 3471, "ph":"X", "name": "Fork Component", "args": { "detail": "Unity.IL2CPP.Contexts.Components.ObjectFactoryComponent"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 13,"ts": 1663700126943663,"dur": 1339, "ph":"X", "name": "Fork Component", "args": { "detail": "Unity.IL2CPP.Contexts.Components.TypeFactoryComponent"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 13,"ts": 1663700126947939,"dur": 41314, "ph":"X", "name": "Generics Initial Collection"},
+{ "pid": "il2cpp_in_graph", "tid": 13,"ts": 1663700126989255,"dur": 4780, "ph":"X", "name": "Generics Initial Collection"},
+{ "pid": "il2cpp_in_graph", "tid": 13,"ts": 1663700126994037,"dur": 9309, "ph":"X", "name": "Generics Initial Collection"},
+{ "pid": "il2cpp_in_graph", "tid": 13,"ts": 1663700127003349,"dur": 24889, "ph":"X", "name": "Collect Metadata", "args": { "detail": "UnityEngine.AndroidJNIModule"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 13,"ts": 1663700127003349,"dur": 24888, "ph":"X", "name": "Collect VTables"},
+{ "pid": "il2cpp_in_graph", "tid": 13,"ts": 1663700127028243,"dur": 4364, "ph":"X", "name": "Collect Metadata", "args": { "detail": "UnityEngine.XRModule"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 13,"ts": 1663700127028243,"dur": 4364, "ph":"X", "name": "Collect VTables"},
+{ "pid": "il2cpp_in_graph", "tid": 13,"ts": 1663700127032689,"dur": 20703, "ph":"X", "name": "Generic Sharing", "args": { "detail": "UnityEngine.CoreModule"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 13,"ts": 1663700127053395,"dur": 15577, "ph":"X", "name": "Collecting Attribute Data", "args": { "detail": "UnityEngine.AndroidJNIModule"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 13,"ts": 1663700127070056,"dur": 3179, "ph":"X", "name": "Collect Windows Runtime Data", "args": { "detail": "System"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 13,"ts": 1663700127073964,"dur": 2688, "ph":"X", "name": "Collect CCW Marshaling Functions", "args": { "detail": "mscorlib"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 13,"ts": 1663700127077272,"dur": 4410, "ph":"X", "name": "Generics Iteration", "args": { "detail": "0"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 13,"ts": 1663700127081683,"dur": 4733, "ph":"X", "name": "Generics Iteration", "args": { "detail": "0"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 13,"ts": 1663700127086524,"dur": 5228, "ph":"X", "name": "Idle Conversion"},
+{ "pid": "il2cpp_in_graph", "tid": 13,"ts": 1663700127091756,"dur": 2900, "ph":"X", "name": "Generics Iteration", "args": { "detail": "0"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 13,"ts": 1663700127096761,"dur": 30846, "ph":"X", "name": "Generics Iteration Merge"},
+{ "pid": "il2cpp_in_graph", "tid": 13,"ts": 1663700127096761,"dur": 8321, "ph":"X", "name": "Collect Generic Virtual Methods", "args": { "detail": "1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 13,"ts": 1663700127098321,"dur": 2535, "ph":"X", "name": "CollectTypesWithGenericVirtualMethods"},
+{ "pid": "il2cpp_in_graph", "tid": 13,"ts": 1663700127101481,"dur": 1130, "ph":"X", "name": "MapBaseTypesToAllDerivedTypes"},
+{ "pid": "il2cpp_in_graph", "tid": 13,"ts": 1663700127102645,"dur": 2418, "ph":"X", "name": "FindOverridenMethodsInTypes"},
+{ "pid": "il2cpp_in_graph", "tid": 13,"ts": 1663700127105516,"dur": 3030, "ph":"X", "name": "AddExtraTypes"},
+{ "pid": "il2cpp_in_graph", "tid": 13,"ts": 1663700127111762,"dur": 15844, "ph":"X", "name": "Create ReadOnly Results"},
+{ "pid": "il2cpp_in_graph", "tid": 13,"ts": 1663700127112325,"dur": 8043, "ph":"X", "name": "Sort Types"},
+{ "pid": "il2cpp_in_graph", "tid": 13,"ts": 1663700127120368,"dur": 3764, "ph":"X", "name": "Sort TypeDeclarations"},
+{ "pid": "il2cpp_in_graph", "tid": 13,"ts": 1663700127124133,"dur": 3460, "ph":"X", "name": "Sort Methods"},
+{ "pid": "il2cpp_in_graph", "tid": 13,"ts": 1663700127130138,"dur": 6066, "ph":"X", "name": "Idle Conversion"},
+{ "pid": "il2cpp_in_graph", "tid": 14, "ph":"M", "name": "thread_name", "args": {"name": "PhaseWorker"} },
+{ "pid": "il2cpp_in_graph", "tid": 14,"ts": 1663700126925628,"dur": 20488, "ph":"X", "name": "Create Forked Context"},
+{ "pid": "il2cpp_in_graph", "tid": 14,"ts": 1663700126929200,"dur": 3465, "ph":"X", "name": "Fork Component", "args": { "detail": "Unity.IL2CPP.Contexts.Components.ObjectFactoryComponent"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 14,"ts": 1663700126937252,"dur": 1052, "ph":"X", "name": "Fork Component", "args": { "detail": "Unity.IL2CPP.Naming.NamingComponent"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 14,"ts": 1663700126943672,"dur": 1359, "ph":"X", "name": "Fork Component", "args": { "detail": "Unity.IL2CPP.Contexts.Components.TypeFactoryComponent"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 14,"ts": 1663700126947917,"dur": 39165, "ph":"X", "name": "Generics Initial Collection"},
+{ "pid": "il2cpp_in_graph", "tid": 14,"ts": 1663700126987085,"dur": 7243, "ph":"X", "name": "Generics Initial Collection"},
+{ "pid": "il2cpp_in_graph", "tid": 14,"ts": 1663700126994330,"dur": 7232, "ph":"X", "name": "Generics Initial Collection"},
+{ "pid": "il2cpp_in_graph", "tid": 14,"ts": 1663700127001563,"dur": 31859, "ph":"X", "name": "Collect Metadata", "args": { "detail": "UnityEngine.CoreModule"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 14,"ts": 1663700127002280,"dur": 31142, "ph":"X", "name": "Collect VTables"},
+{ "pid": "il2cpp_in_graph", "tid": 14,"ts": 1663700127033423,"dur": 17755, "ph":"X", "name": "Generic Sharing", "args": { "detail": "UnityEngine.AndroidJNIModule"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 14,"ts": 1663700127052072,"dur": 18589, "ph":"X", "name": "Collecting Attribute Data", "args": { "detail": "mscorlib"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 14,"ts": 1663700127071012,"dur": 2810, "ph":"X", "name": "Collect Windows Runtime Data", "args": { "detail": "UnityEngine.AndroidJNIModule"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 14,"ts": 1663700127073969,"dur": 1094, "ph":"X", "name": "Collect CCW Marshaling Functions", "args": { "detail": "UnityEngine.AndroidJNIModule"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 14,"ts": 1663700127075469,"dur": 3584, "ph":"X", "name": "Collect Assembly Data", "args": { "detail": "mscorlib"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 14,"ts": 1663700127079110,"dur": 3856, "ph":"X", "name": "Generics Iteration", "args": { "detail": "0"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 14,"ts": 1663700127083334,"dur": 2132, "ph":"X", "name": "Generics Iteration", "args": { "detail": "0"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 14,"ts": 1663700127086836,"dur": 7401, "ph":"X", "name": "Idle Conversion"},
+{ "pid": "il2cpp_in_graph", "tid": 14,"ts": 1663700127094239,"dur": 1481, "ph":"X", "name": "Idle Conversion"},
+{ "pid": "il2cpp_in_graph", "tid": 14,"ts": 1663700127095723,"dur": 2553, "ph":"X", "name": "Idle Conversion"},
+{ "pid": "il2cpp_in_graph", "tid": 14,"ts": 1663700127098277,"dur": 12005, "ph":"X", "name": "Idle Conversion"},
+{ "pid": "il2cpp_in_graph", "tid": 14,"ts": 1663700127110835,"dur": 5910, "ph":"X", "name": "Collect Generic Methods from Types"},
+{ "pid": "il2cpp_in_graph", "tid": 14,"ts": 1663700127116826,"dur": 6520, "ph":"X", "name": "Collect Generic Methods from Methods"},
+{ "pid": "il2cpp_in_graph", "tid": 14,"ts": 1663700127123348,"dur": 5920, "ph":"X", "name": "Cache CppNames"},
+{ "pid": "il2cpp_in_graph", "tid": 14,"ts": 1663700127129268,"dur": 1577, "ph":"X", "name": "Cache CppNames"},
+{ "pid": "il2cpp_in_graph", "tid": 14,"ts": 1663700127130846,"dur": 5476, "ph":"X", "name": "Idle Conversion"},
+{ "pid": "il2cpp_in_graph", "tid": 15, "ph":"M", "name": "thread_name", "args": {"name": "PhaseWorker"} },
+{ "pid": "il2cpp_in_graph", "tid": 15,"ts": 1663700126925636,"dur": 20438, "ph":"X", "name": "Create Forked Context"},
+{ "pid": "il2cpp_in_graph", "tid": 15,"ts": 1663700126929180,"dur": 3461, "ph":"X", "name": "Fork Component", "args": { "detail": "Unity.IL2CPP.Contexts.Components.ObjectFactoryComponent"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 15,"ts": 1663700126937249,"dur": 1052, "ph":"X", "name": "Fork Component", "args": { "detail": "Unity.IL2CPP.Naming.NamingComponent"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 15,"ts": 1663700126943660,"dur": 1047, "ph":"X", "name": "Fork Component", "args": { "detail": "Unity.IL2CPP.Contexts.Components.TypeFactoryComponent"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 15,"ts": 1663700126947932,"dur": 37764, "ph":"X", "name": "Generics Initial Collection"},
+{ "pid": "il2cpp_in_graph", "tid": 15,"ts": 1663700126985698,"dur": 14069, "ph":"X", "name": "Generics Initial Collection"},
+{ "pid": "il2cpp_in_graph", "tid": 15,"ts": 1663700127000956,"dur": 112886, "ph":"X", "name": "Collect Metadata", "args": { "detail": "Global Collect Metadata"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 15,"ts": 1663700127119660,"dur": 16051, "ph":"X", "name": "Final Merge Metadata"},
+{ "pid": "il2cpp_in_graph", "tid": 17, "ph":"M", "name": "thread_name", "args": {"name": ""} },
+{ "pid": "il2cpp_in_graph", "tid": 17,"ts": 1663700127149598,"dur": 6933, "ph":"X", "name": "ForkedContextScope.MergingComponent", "args": { "detail": "Unity.IL2CPP.Contexts.Components.StatsComponent"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 17,"ts": 1663700129345805,"dur": 1110, "ph":"X", "name": "ForkedContextScope.MergingComponent", "args": { "detail": "Unity.IL2CPP.Symbols.SymbolsCollector"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24, "ph":"M", "name": "thread_name", "args": {"name": "PhaseWorker"} },
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700127223979,"dur": 8936, "ph":"X", "name": "Create Forked Context"},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700127223998,"dur": 1120, "ph":"X", "name": "Fork Component", "args": { "detail": "Unity.IL2CPP.Contexts.Components.MetadataUsageCollectorComponent"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700127230044,"dur": 2042, "ph":"X", "name": "Fork Component", "args": { "detail": "Unity.IL2CPP.Contexts.Components.VTableBuilderComponent"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700127232976,"dur": 2877, "ph":"X", "name": "Write Assembly", "args": { "detail": "mscorlib"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700127236116,"dur": 1432, "ph":"X", "name": "Write Generic Methods"},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700127238147,"dur": 8295, "ph":"X", "name": "Write Windows Runtime Factories"},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700127246446,"dur": 1856, "ph":"X", "name": "FilterAndMap", "args": { "detail": "WriteMethods"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700127248497,"dur": 2645, "ph":"X", "name": "Chunk", "args": { "detail": "WriteMethods"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700127252304,"dur": 7571, "ph":"X", "name": "FilterAndMap", "args": { "detail": "WriteGenericInstanceType"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700127260881,"dur": 529993, "ph":"X", "name": "UnityEngine.SharedInternalsModule.cpp"},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700127260903,"dur": 86751, "ph":"X", "name": "WriteMethods", "args": { "detail": ".ctor"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700127347868,"dur": 6731, "ph":"X", "name": "WriteMethods", "args": { "detail": "NativeClassAttribute"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700127356481,"dur": 3370, "ph":"X", "name": "WriteMethods", "args": { "detail": "NativeHeaderAttribute"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700127363011,"dur": 427784, "ph":"X", "name": "Flush Stream"},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700127366972,"dur": 47746, "ph":"X", "name": "Write CppDeclarations"},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700127790877,"dur": 23895, "ph":"X", "name": "UnityEngine.AudioModule.cpp"},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700127791448,"dur": 3533, "ph":"X", "name": "WriteMethods", "args": { "detail": "AudioConfigurationChangeHandler"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700127795739,"dur": 2413, "ph":"X", "name": "WriteMethods", "args": { "detail": "PCMReaderCallback"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700127799270,"dur": 1198, "ph":"X", "name": "WriteMethods", "args": { "detail": "SampleFramesHandler"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700127800468,"dur": 14302, "ph":"X", "name": "Flush Stream"},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700127805131,"dur": 3106, "ph":"X", "name": "Write CppDeclarations"},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700127814776,"dur": 14031, "ph":"X", "name": "System.Configuration.cpp"},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700127816160,"dur": 12645, "ph":"X", "name": "Flush Stream"},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700127828811,"dur": 898904, "ph":"X", "name": "mscorlib1.cpp"},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700127828829,"dur": 47041, "ph":"X", "name": "WriteMethods", "args": { "detail": "TimeZoneInfo"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700127876763,"dur": 3580, "ph":"X", "name": "WriteMethods", "args": { "detail": "AdjustmentRule"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700127880345,"dur": 2671, "ph":"X", "name": "WriteMethods", "args": { "detail": "TransitionTime"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700127884654,"dur": 4374, "ph":"X", "name": "WriteMethods", "args": { "detail": "AggregateException"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700127891991,"dur": 6402, "ph":"X", "name": "WriteMethods", "args": { "detail": "AsyncCallback"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700127898872,"dur": 1337, "ph":"X", "name": "WriteMethods", "args": { "detail": "BadImageFormatException"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700127900209,"dur": 1106, "ph":"X", "name": "WriteMethods", "args": { "detail": "BitConverter"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700127901913,"dur": 3934, "ph":"X", "name": "WriteMethods", "args": { "detail": "Boolean"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700127905849,"dur": 2646, "ph":"X", "name": "WriteMethods", "args": { "detail": "Byte"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700127908602,"dur": 6822, "ph":"X", "name": "WriteMethods", "args": { "detail": "Char"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700127915426,"dur": 1176, "ph":"X", "name": "WriteMethods", "args": { "detail": "CharEnumerator"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700127916603,"dur": 85615, "ph":"X", "name": "WriteMethods", "args": { "detail": "Convert"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700128002485,"dur": 1397, "ph":"X", "name": "WriteMethods", "args": { "detail": "DBNull"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700128003883,"dur": 10558, "ph":"X", "name": "WriteMethods", "args": { "detail": "DateTime"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700128014442,"dur": 713271, "ph":"X", "name": "Flush Stream"},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700128054034,"dur": 672320, "ph":"X", "name": "Write CppDeclarations"},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700128727724,"dur": 212318, "ph":"X", "name": "mscorlib9.cpp"},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700128728308,"dur": 9335, "ph":"X", "name": "WriteMethods", "args": { "detail": "ValueStringBuilder"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700128737645,"dur": 1857, "ph":"X", "name": "WriteMethods", "args": { "detail": "ValueUtf8Converter"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700128739503,"dur": 6181, "ph":"X", "name": "WriteMethods", "args": { "detail": "Encoding"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700128748685,"dur": 3111, "ph":"X", "name": "WriteMethods", "args": { "detail": "Normalization"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700128751797,"dur": 1324, "ph":"X", "name": "WriteMethods", "args": { "detail": "EncodingHelper"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700128756376,"dur": 10131, "ph":"X", "name": "WriteMethods", "args": { "detail": "SHA1Internal"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700128768710,"dur": 16049, "ph":"X", "name": "WriteMethods", "args": { "detail": "EnvoyInfo"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700128786074,"dur": 1585, "ph":"X", "name": "WriteMethods", "args": { "detail": "ObjRef"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700128787660,"dur": 2959, "ph":"X", "name": "WriteMethods", "args": { "detail": "RemotingConfiguration"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700128790620,"dur": 8586, "ph":"X", "name": "WriteMethods", "args": { "detail": "ConfigHandler"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700128800784,"dur": 6477, "ph":"X", "name": "WriteMethods", "args": { "detail": "RemotingServices"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700128809501,"dur": 1834, "ph":"X", "name": "WriteMethods", "args": { "detail": "SoapServices"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700128814885,"dur": 2878, "ph":"X", "name": "WriteMethods", "args": { "detail": "RealProxy"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700128817764,"dur": 122277, "ph":"X", "name": "Flush Stream"},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700128929785,"dur": 9221, "ph":"X", "name": "Write CppDeclarations"},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700128940047,"dur": 48975, "ph":"X", "name": "UnityEngine.CoreModule1.cpp"},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700128940896,"dur": 1227, "ph":"X", "name": "WriteMethods", "args": { "detail": "LinearColor"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700128942980,"dur": 1031, "ph":"X", "name": "WriteMethods", "args": { "detail": "LightDataGI"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700128944012,"dur": 2753, "ph":"X", "name": "WriteMethods", "args": { "detail": "LightmapperUtils"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700128947390,"dur": 1247, "ph":"X", "name": "WriteMethods", "args": { "detail": "<>c"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700128948637,"dur": 1552, "ph":"X", "name": "WriteMethods", "args": { "detail": "GraphicsFormatUtility"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700128956479,"dur": 1292, "ph":"X", "name": "WriteMethods", "args": { "detail": "TidyAssemblyTypeName"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700128958550,"dur": 7453, "ph":"X", "name": "WriteMethods", "args": { "detail": "InvokableCall"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700128966008,"dur": 1969, "ph":"X", "name": "WriteMethods", "args": { "detail": "PersistentCall"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700128968492,"dur": 9248, "ph":"X", "name": "WriteMethods", "args": { "detail": "InvokableCallList"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700128977741,"dur": 1616, "ph":"X", "name": "WriteMethods", "args": { "detail": "UnityEventBase"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700128980407,"dur": 8613, "ph":"X", "name": "Flush Stream"},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700128982381,"dur": 6030, "ph":"X", "name": "Write CppDeclarations"},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700128989027,"dur": 64323, "ph":"X", "name": "System.cpp"},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700128989041,"dur": 2546, "ph":"X", "name": "WriteMethods", "args": { "detail": "OidLookup"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700128991839,"dur": 1382, "ph":"X", "name": "WriteMethods", "args": { "detail": "IPv4AddressHelper"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700128993222,"dur": 2522, "ph":"X", "name": "WriteMethods", "args": { "detail": "IPv6AddressHelper"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700128995746,"dur": 2876, "ph":"X", "name": "WriteMethods", "args": { "detail": "IriHelper"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700128998623,"dur": 46550, "ph":"X", "name": "WriteMethods", "args": { "detail": "Uri"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700129045174,"dur": 8174, "ph":"X", "name": "Flush Stream"},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700129049083,"dur": 3299, "ph":"X", "name": "Write CppDeclarations"},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700129054920,"dur": 113091, "ph":"X", "name": "GenericMethods.cpp"},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700129055516,"dur": 3828, "ph":"X", "name": "WriteGenericMethodDefinition", "args": { "detail": "AwaitUnsafeOnCompleted"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700129067396,"dur": 1482, "ph":"X", "name": "WriteGenericMethodDefinition", "args": { "detail": "_Call"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700129068879,"dur": 1458, "ph":"X", "name": "WriteGenericMethodDefinition", "args": { "detail": "_Call"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700129070338,"dur": 1455, "ph":"X", "name": "WriteGenericMethodDefinition", "args": { "detail": "_Call"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700129071794,"dur": 1571, "ph":"X", "name": "WriteGenericMethodDefinition", "args": { "detail": "_Call"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700129073367,"dur": 1838, "ph":"X", "name": "WriteGenericMethodDefinition", "args": { "detail": "_Call"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700129075207,"dur": 1715, "ph":"X", "name": "WriteGenericMethodDefinition", "args": { "detail": "_Call"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700129076925,"dur": 1969, "ph":"X", "name": "WriteGenericMethodDefinition", "args": { "detail": "_Call"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700129078897,"dur": 2633, "ph":"X", "name": "WriteGenericMethodDefinition", "args": { "detail": "_Call"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700129081536,"dur": 2419, "ph":"X", "name": "WriteGenericMethodDefinition", "args": { "detail": "_Call"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700129083958,"dur": 2510, "ph":"X", "name": "WriteGenericMethodDefinition", "args": { "detail": "_CallStatic"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700129086471,"dur": 2249, "ph":"X", "name": "WriteGenericMethodDefinition", "args": { "detail": "_CallStatic"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700129088724,"dur": 1341, "ph":"X", "name": "WriteGenericMethodDefinition", "args": { "detail": "_Get"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700129090067,"dur": 44994, "ph":"X", "name": "WriteGenericMethodDefinition", "args": { "detail": "_GetStatic"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700129135062,"dur": 1326, "ph":"X", "name": "WriteGenericMethodDefinition", "args": { "detail": "_Set"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700129136389,"dur": 2367, "ph":"X", "name": "WriteGenericMethodDefinition", "args": { "detail": "_SetStatic"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700129140021,"dur": 1305, "ph":"X", "name": "WriteGenericMethodDefinition", "args": { "detail": "ConvertAll"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700129162153,"dur": 5852, "ph":"X", "name": "Flush Stream"},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700129164645,"dur": 2290, "ph":"X", "name": "Write CppDeclarations"},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700129168019,"dur": 140469, "ph":"X", "name": "Generics3.cpp"},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700129168030,"dur": 43886, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "List`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700129211918,"dur": 6351, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "List`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700129218270,"dur": 5120, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "List`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700129223391,"dur": 5168, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "List`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700129228561,"dur": 6585, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "List`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700129235148,"dur": 15445, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "List`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700129253582,"dur": 1596, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "LowLevelDictionary`2"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700129255179,"dur": 3029, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "LowLevelDictionary`2"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700129258496,"dur": 3065, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "LowLevelList`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700129261568,"dur": 2406, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "NativeArray`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700129263975,"dur": 1216, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "NativeArray`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700129265194,"dur": 1416, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "NativeArray`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700129266611,"dur": 1531, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "NativeArray`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700129268143,"dur": 1075, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "NativeArray`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700129269219,"dur": 1062, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "NativeArray`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700129270376,"dur": 3027, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "Nullable`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700129283767,"dur": 1278, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "ObjectEqualityComparer`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700129285046,"dur": 1957, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "ObjectEqualityComparer`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700129290538,"dur": 4031, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "PerCoreLockedStacks"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700129294571,"dur": 1447, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "PerCoreLockedStacks"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700129296694,"dur": 1450, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "PerCoreLockedStacks"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700129299073,"dur": 9414, "ph":"X", "name": "Flush Stream"},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700129300602,"dur": 7003, "ph":"X", "name": "Write CppDeclarations"},
+{ "pid": "il2cpp_in_graph", "tid": 24,"ts": 1663700129308490,"dur": 36085, "ph":"X", "name": "Idle Conversion"},
+{ "pid": "il2cpp_in_graph", "tid": 25, "ph":"M", "name": "thread_name", "args": {"name": "PhaseWorker"} },
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700127224690,"dur": 8214, "ph":"X", "name": "Create Forked Context"},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700127230049,"dur": 2046, "ph":"X", "name": "Fork Component", "args": { "detail": "Unity.IL2CPP.Contexts.Components.VTableBuilderComponent"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700127233249,"dur": 10862, "ph":"X", "name": "Phase Sort Methods"},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700127244120,"dur": 4352, "ph":"X", "name": "FilterAndMap", "args": { "detail": "WriteMethods"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700127248501,"dur": 2645, "ph":"X", "name": "Chunk", "args": { "detail": "WriteMethods"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700127258946,"dur": 546988, "ph":"X", "name": "UnityEngine.AndroidJNIModule.cpp"},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700127259429,"dur": 117419, "ph":"X", "name": "WriteMethods", "args": { "detail": "AndroidJNISafe"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700127376850,"dur": 23616, "ph":"X", "name": "WriteMethods", "args": { "detail": "AndroidJavaRunnable"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700127401815,"dur": 8739, "ph":"X", "name": "WriteMethods", "args": { "detail": "AndroidJavaProxy"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700127410556,"dur": 4823, "ph":"X", "name": "WriteMethods", "args": { "detail": "AndroidJavaObject"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700127415851,"dur": 2366, "ph":"X", "name": "WriteMethods", "args": { "detail": "AndroidReflection"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700127418218,"dur": 14072, "ph":"X", "name": "WriteMethods", "args": { "detail": "_AndroidJNIHelper"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700127432558,"dur": 2083, "ph":"X", "name": "WriteMethods", "args": { "detail": "AndroidJNIHelper"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700127434642,"dur": 359391, "ph":"X", "name": "WriteMethods", "args": { "detail": "AndroidJNI"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700127795814,"dur": 1044, "ph":"X", "name": "WriteMethods", "args": { "detail": "AssetPackManagerStatusQueryCallback"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700127796859,"dur": 1774, "ph":"X", "name": "WriteMethods", "args": { "detail": "PermissionCallbacks"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700127798634,"dur": 7299, "ph":"X", "name": "Flush Stream"},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700127800052,"dur": 5442, "ph":"X", "name": "Write CppDeclarations"},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700127805937,"dur": 21064, "ph":"X", "name": "System.Xml.cpp"},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700127806075,"dur": 20923, "ph":"X", "name": "Flush Stream"},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700127827014,"dur": 934844, "ph":"X", "name": "mscorlib.cpp"},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700127827381,"dur": 1412, "ph":"X", "name": "WriteMethods", "args": { "detail": "Interop"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700127829334,"dur": 7785, "ph":"X", "name": "WriteMethods", "args": { "detail": "Sys"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700127838003,"dur": 1659, "ph":"X", "name": "WriteMethods", "args": { "detail": "RuntimeClassHandle"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700127841963,"dur": 1824, "ph":"X", "name": "WriteMethods", "args": { "detail": "RuntimeMarshal"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700127844793,"dur": 30253, "ph":"X", "name": "WriteMethods", "args": { "detail": "SmallXmlParser"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700127877911,"dur": 5101, "ph":"X", "name": "WriteMethods", "args": { "detail": "MSCompatUnicodeTable"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700127884805,"dur": 24438, "ph":"X", "name": "WriteMethods", "args": { "detail": "SimpleCollator"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700127910042,"dur": 3449, "ph":"X", "name": "WriteMethods", "args": { "detail": "SortKeyBuffer"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700127913495,"dur": 18821, "ph":"X", "name": "WriteMethods", "args": { "detail": "BitConverterLE"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700127932497,"dur": 1273, "ph":"X", "name": "WriteMethods", "args": { "detail": "SafeFileHandle"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700127934170,"dur": 1255, "ph":"X", "name": "WriteMethods", "args": { "detail": "TaskTrace"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700127935853,"dur": 68517, "ph":"X", "name": "WriteMethods", "args": { "detail": "RuntimeThread"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700128004371,"dur": 147538, "ph":"X", "name": "WriteMethods", "args": { "detail": "String"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700128151909,"dur": 609947, "ph":"X", "name": "Flush Stream"},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700128726386,"dur": 34379, "ph":"X", "name": "Write CppDeclarations"},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700128761865,"dur": 207731, "ph":"X", "name": "mscorlib13.cpp"},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700128764253,"dur": 1684, "ph":"X", "name": "WriteMethods", "args": { "detail": "FieldInfo"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700128766811,"dur": 1802, "ph":"X", "name": "WriteMethods", "args": { "detail": "MethodBase"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700128768614,"dur": 14329, "ph":"X", "name": "WriteMethods", "args": { "detail": "MethodInfo"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700128783095,"dur": 1078, "ph":"X", "name": "WriteMethods", "args": { "detail": "Module"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700128784174,"dur": 1284, "ph":"X", "name": "WriteMethods", "args": { "detail": "ParameterInfo"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700128787685,"dur": 1087, "ph":"X", "name": "WriteMethods", "args": { "detail": "SignatureConstructedGenericType"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700128789661,"dur": 2715, "ph":"X", "name": "WriteMethods", "args": { "detail": "SignatureType"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700128792377,"dur": 1456, "ph":"X", "name": "WriteMethods", "args": { "detail": "SignatureTypeExtensions"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700128794964,"dur": 3037, "ph":"X", "name": "WriteMethods", "args": { "detail": "CustomAttributeNamedArgument"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700128798002,"dur": 1751, "ph":"X", "name": "WriteMethods", "args": { "detail": "CustomAttributeTypedArgument"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700128799927,"dur": 2039, "ph":"X", "name": "WriteMethods", "args": { "detail": "MemberInfoSerializationHolder"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700128801967,"dur": 25816, "ph":"X", "name": "WriteMethods", "args": { "detail": "Assembly"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700128827846,"dur": 31097, "ph":"X", "name": "WriteMethods", "args": { "detail": "AssemblyName"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700128858944,"dur": 1894, "ph":"X", "name": "WriteMethods", "args": { "detail": "CustomAttributeData"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700128861505,"dur": 1933, "ph":"X", "name": "WriteMethods", "args": { "detail": "RuntimeAssembly"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700128863574,"dur": 1649, "ph":"X", "name": "WriteMethods", "args": { "detail": "RuntimeEventInfo"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700128865267,"dur": 2341, "ph":"X", "name": "WriteMethods", "args": { "detail": "RuntimeFieldInfo"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700128868213,"dur": 43681, "ph":"X", "name": "WriteMethods", "args": { "detail": "RuntimeMethodInfo"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700128911897,"dur": 2231, "ph":"X", "name": "WriteMethods", "args": { "detail": "RuntimeConstructorInfo"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700128914129,"dur": 1427, "ph":"X", "name": "WriteMethods", "args": { "detail": "RuntimeModule"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700128915557,"dur": 1799, "ph":"X", "name": "WriteMethods", "args": { "detail": "RuntimeParameterInfo"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700128917419,"dur": 2049, "ph":"X", "name": "WriteMethods", "args": { "detail": "RuntimePropertyInfo"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700128921074,"dur": 1518, "ph":"X", "name": "WriteMethods", "args": { "detail": "EnumBuilder"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700128923001,"dur": 1843, "ph":"X", "name": "WriteMethods", "args": { "detail": "GenericTypeParameterBuilder"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700128925979,"dur": 2096, "ph":"X", "name": "WriteMethods", "args": { "detail": "TypeBuilder"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700128929427,"dur": 3909, "ph":"X", "name": "WriteMethods", "args": { "detail": "FileLoadException"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700128933339,"dur": 1384, "ph":"X", "name": "WriteMethods", "args": { "detail": "FileNotFoundException"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700128934971,"dur": 3640, "ph":"X", "name": "WriteMethods", "args": { "detail": "MemoryStream"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700128939970,"dur": 2418, "ph":"X", "name": "WriteMethods", "args": { "detail": "StreamReader"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700128942558,"dur": 7106, "ph":"X", "name": "WriteMethods", "args": { "detail": "StreamWriter"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700128949664,"dur": 19929, "ph":"X", "name": "Flush Stream"},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700128955149,"dur": 13239, "ph":"X", "name": "Write CppDeclarations"},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700128969600,"dur": 83204, "ph":"X", "name": "mscorlib16.cpp"},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700128969798,"dur": 1358, "ph":"X", "name": "WriteMethods", "args": { "detail": "SortKey"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700128971157,"dur": 3817, "ph":"X", "name": "WriteMethods", "args": { "detail": "CultureData"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700128975173,"dur": 8287, "ph":"X", "name": "WriteMethods", "args": { "detail": "EncodingTable"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700128984112,"dur": 58619, "ph":"X", "name": "WriteMethods", "args": { "detail": "CultureInfo"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700129042732,"dur": 10070, "ph":"X", "name": "Flush Stream"},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700129044004,"dur": 8044, "ph":"X", "name": "Write CppDeclarations"},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700129052810,"dur": 8399, "ph":"X", "name": "UnityEngine.PhysicsModule.cpp"},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700129052824,"dur": 4333, "ph":"X", "name": "WriteMethods", "args": { "detail": "Physics"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700129057911,"dur": 1149, "ph":"X", "name": "WriteMethods", "args": { "detail": "PhysicsScene"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700129059117,"dur": 2090, "ph":"X", "name": "Flush Stream"},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700129061213,"dur": 201327, "ph":"X", "name": "GenericMethods2.cpp"},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700129072005,"dur": 61465, "ph":"X", "name": "WriteGenericMethodDefinition", "args": { "detail": "FromCancellation"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700129138177,"dur": 63483, "ph":"X", "name": "WriteGenericMethodDefinition", "args": { "detail": "CreateIntegratedSubsystem"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700129203366,"dur": 43376, "ph":"X", "name": "WriteGenericMethodDefinition", "args": { "detail": "ActiveLoaderAs"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700129246745,"dur": 1106, "ph":"X", "name": "WriteGenericMethodDefinition", "args": { "detail": "ConvertFromJNIArray"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700129247853,"dur": 1317, "ph":"X", "name": "WriteGenericMethodDefinition", "args": { "detail": "ConvertFromJNIArray"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700129249171,"dur": 1081, "ph":"X", "name": "WriteGenericMethodDefinition", "args": { "detail": "ConvertFromJNIArray"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700129251252,"dur": 1100, "ph":"X", "name": "WriteGenericMethodDefinition", "args": { "detail": "ConvertFromJNIArray"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700129254013,"dur": 1118, "ph":"X", "name": "WriteGenericMethodDefinition", "args": { "detail": "ConvertFromJNIArray"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700129259054,"dur": 3485, "ph":"X", "name": "Flush Stream"},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700129260624,"dur": 1522, "ph":"X", "name": "Write CppDeclarations"},
+{ "pid": "il2cpp_in_graph", "tid": 25,"ts": 1663700129262543,"dur": 82093, "ph":"X", "name": "Idle Conversion"},
+{ "pid": "il2cpp_in_graph", "tid": 26, "ph":"M", "name": "thread_name", "args": {"name": "PhaseWorker"} },
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700127224934,"dur": 7968, "ph":"X", "name": "Create Forked Context"},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700127230040,"dur": 2054, "ph":"X", "name": "Fork Component", "args": { "detail": "Unity.IL2CPP.Contexts.Components.VTableBuilderComponent"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700127233235,"dur": 8431, "ph":"X", "name": "Phase Sort Generic Methods"},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700127243429,"dur": 4805, "ph":"X", "name": "FilterAndMap", "args": { "detail": "WriteMethods"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700127248494,"dur": 2647, "ph":"X", "name": "Chunk", "args": { "detail": "WriteMethods"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700127253291,"dur": 22903, "ph":"X", "name": "FilterAndMap", "args": { "detail": "WriteGenericComDefinition"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700127276233,"dur": 519617, "ph":"X", "name": "UnityEngine.SubsystemsModule.cpp"},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700127276291,"dur": 77097, "ph":"X", "name": "WriteMethods", "args": { "detail": "IntegratedSubsystemDescriptor"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700127353390,"dur": 4037, "ph":"X", "name": "WriteMethods", "args": { "detail": "SubsystemDescriptorBindings"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700127357429,"dur": 8163, "ph":"X", "name": "WriteMethods", "args": { "detail": "SubsystemDescriptor"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700127366618,"dur": 11334, "ph":"X", "name": "WriteMethods", "args": { "detail": "SubsystemManager"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700127380161,"dur": 9757, "ph":"X", "name": "WriteMethods", "args": { "detail": "SubsystemProvider"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700127389919,"dur": 405926, "ph":"X", "name": "Flush Stream"},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700127789797,"dur": 5769, "ph":"X", "name": "Write CppDeclarations"},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700127795854,"dur": 5160, "ph":"X", "name": "UnityEngine.InputModule.cpp"},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700127796607,"dur": 1156, "ph":"X", "name": "WriteMethods", "args": { "detail": "NativeInputSystem"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700127797764,"dur": 3248, "ph":"X", "name": "Flush Stream"},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700127798418,"dur": 2451, "ph":"X", "name": "Write CppDeclarations"},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700127801018,"dur": 26550, "ph":"X", "name": "UnityEngine.SpatialTracking.cpp"},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700127801030,"dur": 1673, "ph":"X", "name": "WriteMethods", "args": { "detail": "TrackedPoseDriverDataDescription"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700127803734,"dur": 3831, "ph":"X", "name": "WriteMethods", "args": { "detail": "TrackedPoseDriver"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700127808195,"dur": 19371, "ph":"X", "name": "Flush Stream"},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700127818180,"dur": 1387, "ph":"X", "name": "Write CppDeclarations"},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700127827572,"dur": 10204, "ph":"X", "name": "UnityEngine.cpp"},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700127827589,"dur": 10186, "ph":"X", "name": "Flush Stream"},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700127837779,"dur": 142084, "ph":"X", "name": "mscorlib2.cpp"},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700127837807,"dur": 8819, "ph":"X", "name": "WriteMethods", "args": { "detail": "DateTimeOffset"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700127847017,"dur": 3090, "ph":"X", "name": "WriteMethods", "args": { "detail": "Double"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700127851913,"dur": 25183, "ph":"X", "name": "WriteMethods", "args": { "detail": "DateTimeFormat"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700127877097,"dur": 18712, "ph":"X", "name": "WriteMethods", "args": { "detail": "DateTimeParse"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700127895811,"dur": 3876, "ph":"X", "name": "WriteMethods", "args": { "detail": "__DTString"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700127900934,"dur": 21051, "ph":"X", "name": "WriteMethods", "args": { "detail": "Guid"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700127921987,"dur": 57874, "ph":"X", "name": "Flush Stream"},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700127972852,"dur": 5612, "ph":"X", "name": "Write CppDeclarations"},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700127979869,"dur": 758862, "ph":"X", "name": "mscorlib6.cpp"},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700127980148,"dur": 2210, "ph":"X", "name": "WriteMethods", "args": { "detail": "MulticastDelegate"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700127983025,"dur": 1000, "ph":"X", "name": "WriteMethods", "args": { "detail": "RuntimeFieldHandle"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700127984026,"dur": 1192, "ph":"X", "name": "WriteMethods", "args": { "detail": "RuntimeMethodHandle"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700127985219,"dur": 3039, "ph":"X", "name": "WriteMethods", "args": { "detail": "RuntimeTypeHandle"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700127988260,"dur": 11436, "ph":"X", "name": "WriteMethods", "args": { "detail": "TermInfoDriver"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700127999697,"dur": 3458, "ph":"X", "name": "WriteMethods", "args": { "detail": "ParameterizedStrings"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700128005015,"dur": 1639, "ph":"X", "name": "WriteMethods", "args": { "detail": "TermInfoReader"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700128008146,"dur": 7059, "ph":"X", "name": "WriteMethods", "args": { "detail": "TypeSpec"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700128015208,"dur": 1133, "ph":"X", "name": "WriteMethods", "args": { "detail": "UIntPtr"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700128017338,"dur": 30972, "ph":"X", "name": "WriteMethods", "args": { "detail": "WeakReference"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700128048584,"dur": 8027, "ph":"X", "name": "WriteMethods", "args": { "detail": "WindowsConsoleDriver"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700128056725,"dur": 9646, "ph":"X", "name": "WriteMethods", "args": { "detail": "Decimal"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700128066373,"dur": 84329, "ph":"X", "name": "WriteMethods", "args": { "detail": "DecCalc"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700128152560,"dur": 1374, "ph":"X", "name": "WriteMethods", "args": { "detail": "CancellationToken"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700128154116,"dur": 2867, "ph":"X", "name": "WriteMethods", "args": { "detail": "ManualResetEventSlim"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700128158024,"dur": 1115, "ph":"X", "name": "WriteMethods", "args": { "detail": "CancellationTokenRegistration"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700128159140,"dur": 2815, "ph":"X", "name": "WriteMethods", "args": { "detail": "CancellationTokenSource"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700128163623,"dur": 2920, "ph":"X", "name": "WriteMethods", "args": { "detail": "SemaphoreSlim"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700128166544,"dur": 572185, "ph":"X", "name": "Flush Stream"},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700128728018,"dur": 9025, "ph":"X", "name": "Write CppDeclarations"},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700128738736,"dur": 198502, "ph":"X", "name": "mscorlib12.cpp"},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700128738960,"dur": 6078, "ph":"X", "name": "WriteMethods", "args": { "detail": "ObjectWriter"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700128745039,"dur": 8349, "ph":"X", "name": "WriteMethods", "args": { "detail": "__BinaryParser"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700128754057,"dur": 1180, "ph":"X", "name": "WriteMethods", "args": { "detail": "SizedArray"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700128760225,"dur": 1059, "ph":"X", "name": "WriteMethods", "args": { "detail": "SafeHandle"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700128761286,"dur": 1421, "ph":"X", "name": "WriteMethods", "args": { "detail": "GCHandle"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700128762707,"dur": 2510, "ph":"X", "name": "WriteMethods", "args": { "detail": "Marshal"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700128765219,"dur": 17352, "ph":"X", "name": "WriteMethods", "args": { "detail": "MarshalerInstanceKeyComparer"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700128786491,"dur": 1232, "ph":"X", "name": "WriteMethods", "args": { "detail": "AsyncMethodBuilderCore"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700128789571,"dur": 1954, "ph":"X", "name": "WriteMethods", "args": { "detail": "RuntimeResourceSet"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700128793062,"dur": 1249, "ph":"X", "name": "WriteMethods", "args": { "detail": "ResourceManager"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700128794946,"dur": 6946, "ph":"X", "name": "WriteMethods", "args": { "detail": "ResourceReader"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700128802788,"dur": 1321, "ph":"X", "name": "WriteMethods", "args": { "detail": "ResourceSet"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700128804110,"dur": 133126, "ph":"X", "name": "Flush Stream"},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700128926047,"dur": 10435, "ph":"X", "name": "Write CppDeclarations"},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700128937244,"dur": 201195, "ph":"X", "name": "mscorlib14.cpp"},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700128939318,"dur": 3009, "ph":"X", "name": "WriteMethods", "args": { "detail": "UnmanagedMemoryStream"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700128943872,"dur": 2865, "ph":"X", "name": "WriteMethods", "args": { "detail": "Stream"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700128950232,"dur": 4396, "ph":"X", "name": "WriteMethods", "args": { "detail": "BinaryReader"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700128954630,"dur": 2322, "ph":"X", "name": "WriteMethods", "args": { "detail": "BinaryWriter"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700128956954,"dur": 32136, "ph":"X", "name": "WriteMethods", "args": { "detail": "FileStream"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700128989775,"dur": 3448, "ph":"X", "name": "WriteMethods", "args": { "detail": "MonoIO"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700128993232,"dur": 4830, "ph":"X", "name": "WriteMethods", "args": { "detail": "Path"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700129000240,"dur": 1967, "ph":"X", "name": "WriteMethods", "args": { "detail": "CharUnicodeInfo"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700129002209,"dur": 8637, "ph":"X", "name": "WriteMethods", "args": { "detail": "CompareInfo"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700129010849,"dur": 1103, "ph":"X", "name": "WriteMethods", "args": { "detail": "CultureNotFoundException"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700129011953,"dur": 50478, "ph":"X", "name": "WriteMethods", "args": { "detail": "DateTimeFormatInfo"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700129062431,"dur": 76007, "ph":"X", "name": "Flush Stream"},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700129078304,"dur": 11477, "ph":"X", "name": "Write CppDeclarations"},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700129138444,"dur": 127484, "ph":"X", "name": "Generics2.cpp"},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700129138450,"dur": 1240, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "EqualityComparer`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700129139692,"dur": 1189, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "EqualityComparer`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700129140884,"dur": 1306, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "EqualityComparer`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700129142192,"dur": 1094, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "EqualityComparer`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700129143287,"dur": 1369, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "EqualityComparer`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700129144659,"dur": 1144, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "EqualityComparer`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700129152894,"dur": 3131, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "HashSet`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700129167835,"dur": 33553, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "InternalEnumerator`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700129223552,"dur": 1039, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "InvokableCall`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700129231711,"dur": 19726, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "List`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700129251439,"dur": 4932, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "List`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700129256371,"dur": 9555, "ph":"X", "name": "Flush Stream"},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700129258438,"dur": 6607, "ph":"X", "name": "Write CppDeclarations"},
+{ "pid": "il2cpp_in_graph", "tid": 26,"ts": 1663700129265932,"dur": 78704, "ph":"X", "name": "Idle Conversion"},
+{ "pid": "il2cpp_in_graph", "tid": 27, "ph":"M", "name": "thread_name", "args": {"name": "PhaseWorker"} },
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700127225202,"dur": 7716, "ph":"X", "name": "Create Forked Context"},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700127230039,"dur": 2177, "ph":"X", "name": "Fork Component", "args": { "detail": "Unity.IL2CPP.Contexts.Components.VTableBuilderComponent"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700127232976,"dur": 4656, "ph":"X", "name": "Write Assembly", "args": { "detail": "UnityEngine.CoreModule"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700127239477,"dur": 3283, "ph":"X", "name": "Collect Generic Context Metadata", "args": { "detail": "mscorlib"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700127243435,"dur": 5049, "ph":"X", "name": "FilterAndMap", "args": { "detail": "WriteMethods"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700127248513,"dur": 2637, "ph":"X", "name": "Chunk", "args": { "detail": "WriteMethods"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700127256454,"dur": 534419, "ph":"X", "name": "System.Core.cpp"},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700127259486,"dur": 95300, "ph":"X", "name": "WriteMethods", "args": { "detail": "Error"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700127354801,"dur": 435965, "ph":"X", "name": "Flush Stream"},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700127363709,"dur": 40782, "ph":"X", "name": "Write CppDeclarations"},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700127790877,"dur": 20791, "ph":"X", "name": "UnityEngine.InputLegacyModule.cpp"},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700127791946,"dur": 7869, "ph":"X", "name": "WriteMethods", "args": { "detail": "SendMouseEvents"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700127800240,"dur": 11427, "ph":"X", "name": "Flush Stream"},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700127806514,"dur": 1266, "ph":"X", "name": "Write CppDeclarations"},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700127811672,"dur": 26346, "ph":"X", "name": "Mono.Security.cpp"},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700127811693,"dur": 4726, "ph":"X", "name": "WriteMethods", "args": { "detail": "ASN1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700127816420,"dur": 1396, "ph":"X", "name": "WriteMethods", "args": { "detail": "ASN1Convert"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700127818778,"dur": 19239, "ph":"X", "name": "Flush Stream"},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700127838019,"dur": 224500, "ph":"X", "name": "mscorlib4.cpp"},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700127838275,"dur": 1026, "ph":"X", "name": "WriteMethods", "args": { "detail": "StringComparer"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700127839303,"dur": 1069, "ph":"X", "name": "WriteMethods", "args": { "detail": "CultureAwareComparer"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700127842386,"dur": 5119, "ph":"X", "name": "WriteMethods", "args": { "detail": "TimeSpan"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700127847700,"dur": 21209, "ph":"X", "name": "WriteMethods", "args": { "detail": "Type"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700127869750,"dur": 3852, "ph":"X", "name": "WriteMethods", "args": { "detail": "UInt16"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700127873604,"dur": 3460, "ph":"X", "name": "WriteMethods", "args": { "detail": "UInt32"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700127877064,"dur": 3471, "ph":"X", "name": "WriteMethods", "args": { "detail": "UInt64"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700127881343,"dur": 1263, "ph":"X", "name": "WriteMethods", "args": { "detail": "ValueTuple"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700127882608,"dur": 2712, "ph":"X", "name": "WriteMethods", "args": { "detail": "Version"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700127886569,"dur": 3378, "ph":"X", "name": "WriteMethods", "args": { "detail": "ThrowHelper"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700127891657,"dur": 103089, "ph":"X", "name": "WriteMethods", "args": { "detail": "Array"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700127995344,"dur": 3944, "ph":"X", "name": "WriteMethods", "args": { "detail": "SorterObjectArray"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700127999289,"dur": 2103, "ph":"X", "name": "WriteMethods", "args": { "detail": "SorterGenericArray"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128001944,"dur": 1005, "ph":"X", "name": "WriteMethods", "args": { "detail": "LocalDataStore"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128003260,"dur": 3327, "ph":"X", "name": "WriteMethods", "args": { "detail": "LocalDataStoreMgr"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128007393,"dur": 2495, "ph":"X", "name": "WriteMethods", "args": { "detail": "Attribute"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128009890,"dur": 1869, "ph":"X", "name": "WriteMethods", "args": { "detail": "Buffer"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128011897,"dur": 38756, "ph":"X", "name": "WriteMethods", "args": { "detail": "DefaultBinder"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128050654,"dur": 11862, "ph":"X", "name": "Flush Stream"},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128054520,"dur": 7041, "ph":"X", "name": "Write CppDeclarations"},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128062523,"dur": 676796, "ph":"X", "name": "mscorlib7.cpp"},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128062808,"dur": 1394, "ph":"X", "name": "WriteMethods", "args": { "detail": "<WaitUntilCountOrTimeoutAsync>d__32"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128064205,"dur": 86554, "ph":"X", "name": "WriteMethods", "args": { "detail": "SpinLock"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128152003,"dur": 4126, "ph":"X", "name": "WriteMethods", "args": { "detail": "ExecutionContext"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128156899,"dur": 1305, "ph":"X", "name": "WriteMethods", "args": { "detail": "Monitor"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128159054,"dur": 9760, "ph":"X", "name": "WriteMethods", "args": { "detail": "OSSpecificSynchronizationContext"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128169736,"dur": 3381, "ph":"X", "name": "WriteMethods", "args": { "detail": "Thread"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128173781,"dur": 1603, "ph":"X", "name": "WriteMethods", "args": { "detail": "ThreadPoolWorkQueue"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128175385,"dur": 1309, "ph":"X", "name": "WriteMethods", "args": { "detail": "WorkStealingQueue"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128178332,"dur": 1321, "ph":"X", "name": "WriteMethods", "args": { "detail": "ThreadPool"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128179654,"dur": 6508, "ph":"X", "name": "WriteMethods", "args": { "detail": "WaitHandle"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128189579,"dur": 1850, "ph":"X", "name": "WriteMethods", "args": { "detail": "Scheduler"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128192137,"dur": 1008, "ph":"X", "name": "WriteMethods", "args": { "detail": "DebuggerSupport"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128193146,"dur": 13905, "ph":"X", "name": "WriteMethods", "args": { "detail": "Task"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128211233,"dur": 1104, "ph":"X", "name": "WriteMethods", "args": { "detail": "AwaitTaskContinuation"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128212337,"dur": 1513, "ph":"X", "name": "WriteMethods", "args": { "detail": "TaskExceptionHolder"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128216816,"dur": 4846, "ph":"X", "name": "WriteMethods", "args": { "detail": "ASCIIEncoding"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128225953,"dur": 7900, "ph":"X", "name": "WriteMethods", "args": { "detail": "DecoderNLS"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128233854,"dur": 505464, "ph":"X", "name": "Flush Stream"},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128725940,"dur": 9522, "ph":"X", "name": "Write CppDeclarations"},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128739321,"dur": 298745, "ph":"X", "name": "UnityEngine.CoreModule.cpp"},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128742865,"dur": 1657, "ph":"X", "name": "WriteMethods", "args": { "detail": "Debug"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128745228,"dur": 1424, "ph":"X", "name": "WriteMethods", "args": { "detail": "Logger"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128746653,"dur": 1002, "ph":"X", "name": "WriteMethods", "args": { "detail": "Pose"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128748268,"dur": 3745, "ph":"X", "name": "WriteMethods", "args": { "detail": "Renderer"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128752271,"dur": 4050, "ph":"X", "name": "WriteMethods", "args": { "detail": "Texture"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128756374,"dur": 2291, "ph":"X", "name": "WriteMethods", "args": { "detail": "Cubemap"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128758666,"dur": 1159, "ph":"X", "name": "WriteMethods", "args": { "detail": "Texture3D"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128759826,"dur": 3063, "ph":"X", "name": "WriteMethods", "args": { "detail": "Texture2DArray"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128762890,"dur": 1024, "ph":"X", "name": "WriteMethods", "args": { "detail": "CubemapArray"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128763916,"dur": 4282, "ph":"X", "name": "WriteMethods", "args": { "detail": "RenderTexture"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128768568,"dur": 13918, "ph":"X", "name": "WriteMethods", "args": { "detail": "ToString"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128784895,"dur": 11967, "ph":"X", "name": "WriteMethods", "args": { "detail": "BeforeRenderHelper"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128797697,"dur": 1158, "ph":"X", "name": "WriteMethods", "args": { "detail": "Display"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128799769,"dur": 56040, "ph":"X", "name": "WriteMethods", "args": { "detail": "PlayerConnectionInternal"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128857162,"dur": 1436, "ph":"X", "name": "WriteMethods", "args": { "detail": "Camera"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128858873,"dur": 1636, "ph":"X", "name": "WriteMethods", "args": { "detail": "RectInt"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128860906,"dur": 1190, "ph":"X", "name": "WriteMethods", "args": { "detail": "Bounds"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128862097,"dur": 1902, "ph":"X", "name": "WriteMethods", "args": { "detail": "Rect"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128865792,"dur": 1346, "ph":"X", "name": "WriteMethods", "args": { "detail": "AttributeHelperEngine"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128867816,"dur": 46859, "ph":"X", "name": "WriteMethods", "args": { "detail": "Object"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128916987,"dur": 2255, "ph":"X", "name": "WriteMethods", "args": { "detail": "StackTraceUtility"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128920087,"dur": 2078, "ph":"X", "name": "WriteMethods", "args": { "detail": "MonoBehaviour"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128923513,"dur": 1113, "ph":"X", "name": "WriteMethods", "args": { "detail": "ManagedStreamHelpers"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128925463,"dur": 3734, "ph":"X", "name": "WriteMethods", "args": { "detail": "UnitySynchronizationContext"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128929629,"dur": 1052, "ph":"X", "name": "WriteMethods", "args": { "detail": "Vector2"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128930684,"dur": 1280, "ph":"X", "name": "WriteMethods", "args": { "detail": "Vector2Int"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128931968,"dur": 1932, "ph":"X", "name": "WriteMethods", "args": { "detail": "Matrix4x4"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128933901,"dur": 1194, "ph":"X", "name": "WriteMethods", "args": { "detail": "Vector4"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128935097,"dur": 2122, "ph":"X", "name": "WriteMethods", "args": { "detail": "Vector3"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128937683,"dur": 1398, "ph":"X", "name": "WriteMethods", "args": { "detail": "Color"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128939083,"dur": 1773, "ph":"X", "name": "WriteMethods", "args": { "detail": "Quaternion"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128943303,"dur": 1371, "ph":"X", "name": "WriteMethods", "args": { "detail": "Application"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128945123,"dur": 1447, "ph":"X", "name": "WriteMethods", "args": { "detail": "Transform"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128948890,"dur": 7571, "ph":"X", "name": "WriteMethods", "args": { "detail": ".ctor"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128956463,"dur": 1445, "ph":"X", "name": "WriteMethods", "args": { "detail": "MemoryProfiler"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128958205,"dur": 1256, "ph":"X", "name": "WriteMethods", "args": { "detail": "PlayerEditorConnectionEvents"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128959524,"dur": 11528, "ph":"X", "name": "WriteMethods", "args": { "detail": ".ctor"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128971053,"dur": 1002, "ph":"X", "name": "WriteMethods", "args": { "detail": "MessageTypeSubscribers"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128972372,"dur": 3906, "ph":"X", "name": "WriteMethods", "args": { "detail": "PlayerConnection"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128978629,"dur": 1423, "ph":"X", "name": "WriteMethods", "args": { "detail": "RenderPipelineManager"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128981446,"dur": 1073, "ph":"X", "name": "WriteMethods", "args": { "detail": "RenderPipelineAsset"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128984049,"dur": 2481, "ph":"X", "name": "WriteMethods", "args": { "detail": "SupportedRenderingFeatures"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128987930,"dur": 50134, "ph":"X", "name": "Flush Stream"},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700128997429,"dur": 39100, "ph":"X", "name": "Write CppDeclarations"},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700129038072,"dur": 47915, "ph":"X", "name": "System1.cpp"},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700129038369,"dur": 4974, "ph":"X", "name": "WriteMethods", "args": { "detail": "UriHelper"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700129043344,"dur": 4851, "ph":"X", "name": "WriteMethods", "args": { "detail": "UriParser"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700129048306,"dur": 2565, "ph":"X", "name": "WriteMethods", "args": { "detail": "DomainNameHelper"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700129053755,"dur": 2068, "ph":"X", "name": "WriteMethods", "args": { "detail": "AsnEncodedData"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700129055983,"dur": 1579, "ph":"X", "name": "WriteMethods", "args": { "detail": "X509BasicConstraintsExtension"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700129058798,"dur": 1571, "ph":"X", "name": "WriteMethods", "args": { "detail": "X509KeyUsageExtension"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700129060371,"dur": 1989, "ph":"X", "name": "WriteMethods", "args": { "detail": "X509SubjectKeyIdentifierExtension"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700129062361,"dur": 1693, "ph":"X", "name": "WriteMethods", "args": { "detail": "IPAddress"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700129064111,"dur": 1300, "ph":"X", "name": "WriteMethods", "args": { "detail": "IPAddressParser"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700129066511,"dur": 6428, "ph":"X", "name": "WriteMethods", "args": { "detail": "ComputeStringHash"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700129074605,"dur": 11379, "ph":"X", "name": "Flush Stream"},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700129080056,"dur": 5150, "ph":"X", "name": "Write CppDeclarations"},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700129085993,"dur": 169266, "ph":"X", "name": "Generics1.cpp"},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700129086037,"dur": 50524, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "Dictionary`2"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700129136562,"dur": 6279, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "Dictionary`2"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700129142842,"dur": 6036, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "Dictionary`2"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700129148879,"dur": 6077, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "Dictionary`2"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700129167931,"dur": 35576, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "EmptyInternalEnumerator`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700129211964,"dur": 1915, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "Enumerator"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700129222824,"dur": 1132, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "Enumerator"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700129223957,"dur": 1078, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "Enumerator"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700129225036,"dur": 1058, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "Enumerator"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700129226786,"dur": 1063, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "Enumerator"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700129227850,"dur": 1054, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "Enumerator"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700129228905,"dur": 1183, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "EqualityComparer`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700129230089,"dur": 1182, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "EqualityComparer`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700129231272,"dur": 1098, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "EqualityComparer`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700129232371,"dur": 1149, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "EqualityComparer`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700129233525,"dur": 1270, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "EqualityComparer`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700129234797,"dur": 11989, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "EqualityComparer`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700129246788,"dur": 1183, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "EqualityComparer`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700129247972,"dur": 7286, "ph":"X", "name": "Flush Stream"},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700129249938,"dur": 4623, "ph":"X", "name": "Write CppDeclarations"},
+{ "pid": "il2cpp_in_graph", "tid": 27,"ts": 1663700129255424,"dur": 89247, "ph":"X", "name": "Idle Conversion"},
+{ "pid": "il2cpp_in_graph", "tid": 28, "ph":"M", "name": "thread_name", "args": {"name": "PhaseWorker"} },
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700127225963,"dur": 7382, "ph":"X", "name": "Create Forked Context"},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700127230103,"dur": 3220, "ph":"X", "name": "Fork Component", "args": { "detail": "Unity.IL2CPP.Contexts.Components.VTableBuilderComponent"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700127233346,"dur": 6353, "ph":"X", "name": "Write Assembly", "args": { "detail": "System"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700127239700,"dur": 2132, "ph":"X", "name": "Collect Generic Context Metadata", "args": { "detail": "UnityEngine.CoreModule"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700127243432,"dur": 5103, "ph":"X", "name": "FilterAndMap", "args": { "detail": "WriteMethods"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700127248536,"dur": 2621, "ph":"X", "name": "Chunk", "args": { "detail": "WriteMethods"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700127253618,"dur": 1813, "ph":"X", "name": "Chunk", "args": { "detail": "WriteGenericMethodDefinition"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700127256410,"dur": 539866, "ph":"X", "name": "Unity.XR.Management.cpp"},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700127259472,"dur": 88624, "ph":"X", "name": "WriteMethods", "args": { "detail": "XRConfigurationDataAttribute"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700127348097,"dur": 11461, "ph":"X", "name": "WriteMethods", "args": { "detail": "XRGeneralSettings"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700127359560,"dur": 1512, "ph":"X", "name": "WriteMethods", "args": { "detail": "XRLoader"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700127362345,"dur": 3636, "ph":"X", "name": "WriteMethods", "args": { "detail": "BuildEvent"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700127365983,"dur": 13973, "ph":"X", "name": "WriteMethods", "args": { "detail": "XRManagerSettings"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700127379959,"dur": 4745, "ph":"X", "name": "WriteMethods", "args": { "detail": "<InitializeLoader>d__24"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700127384705,"dur": 411569, "ph":"X", "name": "Flush Stream"},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700127789748,"dur": 5840, "ph":"X", "name": "Write CppDeclarations"},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700127796279,"dur": 20542, "ph":"X", "name": "Assembly-CSharp.cpp"},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700127798109,"dur": 2715, "ph":"X", "name": "WriteMethods", "args": { "detail": "ObjectController"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700127800825,"dur": 2555, "ph":"X", "name": "WriteMethods", "args": { "detail": "VrModeController"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700127805254,"dur": 11565, "ph":"X", "name": "Flush Stream"},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700127815370,"dur": 1253, "ph":"X", "name": "Write CppDeclarations"},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700127816825,"dur": 34537, "ph":"X", "name": "__Generated.cpp"},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700127816998,"dur": 4068, "ph":"X", "name": "WriteMethods", "args": { "detail": "Finalize"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700127821180,"dur": 30181, "ph":"X", "name": "Flush Stream"},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700127849673,"dur": 1490, "ph":"X", "name": "Write CppDeclarations"},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700127851367,"dur": 882986, "ph":"X", "name": "mscorlib5.cpp"},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700127851980,"dur": 15700, "ph":"X", "name": "WriteMethods", "args": { "detail": "Enum"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700127868731,"dur": 8668, "ph":"X", "name": "WriteMethods", "args": { "detail": "Exception"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700127877942,"dur": 177355, "ph":"X", "name": "WriteMethods", "args": { "detail": "RuntimeType"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700128055481,"dur": 1690, "ph":"X", "name": "WriteMethods", "args": { "detail": "TypedReference"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700128057172,"dur": 1405, "ph":"X", "name": "WriteMethods", "args": { "detail": "TypeLoadException"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700128058579,"dur": 4117, "ph":"X", "name": "WriteMethods", "args": { "detail": "UnitySerializationHolder"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700128062698,"dur": 89686, "ph":"X", "name": "WriteMethods", "args": { "detail": "AppDomain"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700128152389,"dur": 1422, "ph":"X", "name": "WriteMethods", "args": { "detail": "Environment"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700128154521,"dur": 1599, "ph":"X", "name": "WriteMethods", "args": { "detail": "Console"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700128157507,"dur": 4262, "ph":"X", "name": "WriteMethods", "args": { "detail": "Delegate"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700128163009,"dur": 1513, "ph":"X", "name": "WriteMethods", "args": { "detail": "IntPtr"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700128164736,"dur": 3162, "ph":"X", "name": "WriteMethods", "args": { "detail": "MarshalByRefObject"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700128168184,"dur": 6126, "ph":"X", "name": "WriteMethods", "args": { "detail": "MonoCustomAttrs"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700128174311,"dur": 560041, "ph":"X", "name": "Flush Stream"},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700128726047,"dur": 7410, "ph":"X", "name": "Write CppDeclarations"},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700128734358,"dur": 205795, "ph":"X", "name": "mscorlib11.cpp"},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700128734364,"dur": 7053, "ph":"X", "name": "WriteMethods", "args": { "detail": "ObjectManager"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700128741418,"dur": 2273, "ph":"X", "name": "WriteMethods", "args": { "detail": "ObjectHolder"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700128747728,"dur": 3180, "ph":"X", "name": "WriteMethods", "args": { "detail": "SerializationInfo"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700128751343,"dur": 1341, "ph":"X", "name": "WriteMethods", "args": { "detail": "BinaryConverter"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700128758315,"dur": 9981, "ph":"X", "name": "WriteMethods", "args": { "detail": "ObjectMap"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700128768296,"dur": 17243, "ph":"X", "name": "WriteMethods", "args": { "detail": "ObjectProgress"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700128785540,"dur": 2619, "ph":"X", "name": "WriteMethods", "args": { "detail": "Converter"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700128788160,"dur": 1282, "ph":"X", "name": "WriteMethods", "args": { "detail": "BinaryFormatter"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700128789443,"dur": 4263, "ph":"X", "name": "WriteMethods", "args": { "detail": "__BinaryWriter"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700128793924,"dur": 2904, "ph":"X", "name": "WriteMethods", "args": { "detail": "WriteObjectInfo"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700128796830,"dur": 2802, "ph":"X", "name": "WriteMethods", "args": { "detail": "ReadObjectInfo"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700128799999,"dur": 6963, "ph":"X", "name": "WriteMethods", "args": { "detail": "ObjectReader"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700128806963,"dur": 133189, "ph":"X", "name": "Flush Stream"},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700128933377,"dur": 5689, "ph":"X", "name": "Write CppDeclarations"},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700128940155,"dur": 121706, "ph":"X", "name": "mscorlib15.cpp"},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700128940249,"dur": 2795, "ph":"X", "name": "WriteMethods", "args": { "detail": "DateTimeFormatInfoScanner"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700128943230,"dur": 1356, "ph":"X", "name": "WriteMethods", "args": { "detail": "HebrewNumber"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700128944665,"dur": 2311, "ph":"X", "name": "WriteMethods", "args": { "detail": "TimeSpanFormat"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700128946977,"dur": 1290, "ph":"X", "name": "WriteMethods", "args": { "detail": "FormatLiterals"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700128948268,"dur": 5156, "ph":"X", "name": "WriteMethods", "args": { "detail": "TimeSpanParse"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700128954632,"dur": 2207, "ph":"X", "name": "WriteMethods", "args": { "detail": "TimeSpanRawInfo"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700128957279,"dur": 1192, "ph":"X", "name": "WriteMethods", "args": { "detail": "StringParser"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700128958590,"dur": 8032, "ph":"X", "name": "WriteMethods", "args": { "detail": "Calendar"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700128966624,"dur": 3524, "ph":"X", "name": "WriteMethods", "args": { "detail": "CalendarData"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700128970150,"dur": 3057, "ph":"X", "name": "WriteMethods", "args": { "detail": "GregorianCalendar"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700128973416,"dur": 10072, "ph":"X", "name": "WriteMethods", "args": { "detail": "GregorianCalendarHelper"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700128983489,"dur": 2915, "ph":"X", "name": "WriteMethods", "args": { "detail": "HijriCalendar"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700128986406,"dur": 6976, "ph":"X", "name": "WriteMethods", "args": { "detail": "JapaneseCalendar"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700128993382,"dur": 2491, "ph":"X", "name": "WriteMethods", "args": { "detail": "NumberFormatInfo"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700128995874,"dur": 2744, "ph":"X", "name": "WriteMethods", "args": { "detail": "TaiwanCalendar"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700128998620,"dur": 7654, "ph":"X", "name": "WriteMethods", "args": { "detail": "TextInfo"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700129006276,"dur": 1293, "ph":"X", "name": "WriteMethods", "args": { "detail": "ThaiBuddhistCalendar"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700129007571,"dur": 23768, "ph":"X", "name": "WriteMethods", "args": { "detail": "UmAlQuraCalendar"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700129031341,"dur": 30519, "ph":"X", "name": "Flush Stream"},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700129042344,"dur": 18840, "ph":"X", "name": "Write CppDeclarations"},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700129061875,"dur": 163628, "ph":"X", "name": "Generics.cpp"},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700129062365,"dur": 1010, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "<GetEnumerator>d__35"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700129066208,"dur": 2448, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "ArraySortHelper`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700129068658,"dur": 2110, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "ArraySortHelper`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700129070770,"dur": 2161, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "ArraySortHelper`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700129072936,"dur": 2431, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "ArraySortHelper`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700129075370,"dur": 60068, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "ArraySortHelper`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700129135440,"dur": 2178, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "ArraySortHelper`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700129137619,"dur": 2304, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "ArraySortHelper`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700129139926,"dur": 2439, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "ArraySortHelper`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700129142366,"dur": 2391, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "ArraySortHelper`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700129144758,"dur": 1892, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "ArraySortHelper`2"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700129146651,"dur": 1913, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "ArraySortHelper`2"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700129148568,"dur": 1555, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "AsyncTaskMethodBuilder`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700129150124,"dur": 2045, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "AsyncTaskMethodBuilder`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700129161665,"dur": 43933, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "ConcurrentDictionary`2"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700129205599,"dur": 2690, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "ConditionalWeakTable`2"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700129211411,"dur": 7755, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "Dictionary`2"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700129219166,"dur": 6335, "ph":"X", "name": "Flush Stream"},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700129221004,"dur": 3620, "ph":"X", "name": "Write CppDeclarations"},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700129225507,"dur": 119034, "ph":"X", "name": "Generics4.cpp"},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700129225865,"dur": 2529, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "ReadOnlyCollection`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700129228395,"dur": 2363, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "ReadOnlyCollection`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700129230760,"dur": 2137, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "ReadOnlyCollection`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700129232898,"dur": 2895, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "ReadOnlySpan`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700129235795,"dur": 11501, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "ReadOnlySpan`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700129247298,"dur": 1676, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "ReadOnlySpan`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700129248977,"dur": 1588, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "ReadOnlySpan`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700129250567,"dur": 1638, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "ReadOnlySpan`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700129252206,"dur": 1554, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "ReadOnlySpan`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700129254236,"dur": 1838, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "Span`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700129256075,"dur": 1861, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "Span`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700129257938,"dur": 1879, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "Span`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700129259820,"dur": 1893, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "Span`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700129261714,"dur": 1933, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "Span`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700129263650,"dur": 1907, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "Span`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700129271762,"dur": 3107, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "TlsOverPerCoreLockedStacksArrayPool`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700129274870,"dur": 2349, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "TlsOverPerCoreLockedStacksArrayPool`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700129277220,"dur": 2376, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "TlsOverPerCoreLockedStacksArrayPool`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700129279597,"dur": 2425, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "TlsOverPerCoreLockedStacksArrayPool`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700129282023,"dur": 1124, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "Tuple`3"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700129284613,"dur": 1011, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "UnityEvent`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700129288945,"dur": 1718, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "ValueTuple`2"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700129290663,"dur": 1666, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "ValueTuple`2"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700129292334,"dur": 2089, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "ValueTuple`3"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700129294425,"dur": 2138, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "ValueTuple`3"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700129296569,"dur": 3901, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "ValueTuple`5"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700129300473,"dur": 3527, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "ValueTuple`5"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700129304008,"dur": 25561, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "Vector`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700129329570,"dur": 14969, "ph":"X", "name": "Flush Stream"},
+{ "pid": "il2cpp_in_graph", "tid": 28,"ts": 1663700129338737,"dur": 4529, "ph":"X", "name": "Write CppDeclarations"},
+{ "pid": "il2cpp_in_graph", "tid": 29, "ph":"M", "name": "thread_name", "args": {"name": "PhaseWorker"} },
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700127226449,"dur": 6459, "ph":"X", "name": "Create Forked Context"},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700127230052,"dur": 1790, "ph":"X", "name": "Fork Component", "args": { "detail": "Unity.IL2CPP.Contexts.Components.VTableBuilderComponent"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700127233377,"dur": 7540, "ph":"X", "name": "Phase Sort Types"},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700127243426,"dur": 8129, "ph":"X", "name": "FilterAndMap", "args": { "detail": "WriteMethods"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700127254022,"dur": 542372, "ph":"X", "name": "UnityEngine.XRModule.cpp"},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700127257042,"dur": 2388, "ph":"X", "name": "WriteMethods", "args": { "detail": "<Module>"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700127259436,"dur": 88102, "ph":"X", "name": "WriteMethods", "args": { "detail": ".ctor"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700127347663,"dur": 25939, "ph":"X", "name": "WriteMethods", "args": { "detail": "InputFeatureUsage"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700127373605,"dur": 6409, "ph":"X", "name": "WriteMethods", "args": { "detail": "InputDevice"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700127380015,"dur": 1036, "ph":"X", "name": "WriteMethods", "args": { "detail": "Hand"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700127382534,"dur": 2524, "ph":"X", "name": "WriteMethods", "args": { "detail": "InvokeConnectionEvent"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700127385059,"dur": 1177, "ph":"X", "name": "WriteMethods", "args": { "detail": "InputTracking"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700127386237,"dur": 3212, "ph":"X", "name": "WriteMethods", "args": { "detail": "XRNodeState"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700127391415,"dur": 1091, "ph":"X", "name": "WriteMethods", "args": { "detail": "HashCodeHelper"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700127392507,"dur": 2223, "ph":"X", "name": "WriteMethods", "args": { "detail": "MeshGenerationResult"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700127396549,"dur": 399844, "ph":"X", "name": "Flush Stream"},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700127790166,"dur": 5578, "ph":"X", "name": "Write CppDeclarations"},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700127796396,"dur": 41421, "ph":"X", "name": "Google.XR.Cardboard.cpp"},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700127796406,"dur": 12079, "ph":"X", "name": "WriteMethods", "args": { "detail": "Api"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700127808497,"dur": 1766, "ph":"X", "name": "WriteMethods", "args": { "detail": "Widget"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700127810266,"dur": 3706, "ph":"X", "name": "WriteMethods", "args": { "detail": "XRLoader"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700127814041,"dur": 23775, "ph":"X", "name": "Flush Stream"},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700127835787,"dur": 1311, "ph":"X", "name": "Write CppDeclarations"},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700127837818,"dur": 227319, "ph":"X", "name": "mscorlib3.cpp"},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700127837823,"dur": 2131, "ph":"X", "name": "WriteMethods", "args": { "detail": "GuidResult"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700127840161,"dur": 7040, "ph":"X", "name": "WriteMethods", "args": { "detail": "Int16"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700127847202,"dur": 2879, "ph":"X", "name": "WriteMethods", "args": { "detail": "Int32"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700127850086,"dur": 13434, "ph":"X", "name": "WriteMethods", "args": { "detail": "Int64"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700127864769,"dur": 2154, "ph":"X", "name": "WriteMethods", "args": { "detail": "Marvin"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700127866925,"dur": 10169, "ph":"X", "name": "WriteMethods", "args": { "detail": "Math"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700127877367,"dur": 14082, "ph":"X", "name": "WriteMethods", "args": { "detail": "MemoryExtensions"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700127893597,"dur": 91377, "ph":"X", "name": "WriteMethods", "args": { "detail": "Number"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700127987761,"dur": 2761, "ph":"X", "name": "WriteMethods", "args": { "detail": "ParseNumbers"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700127990744,"dur": 1665, "ph":"X", "name": "WriteMethods", "args": { "detail": "Random"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700127992977,"dur": 5933, "ph":"X", "name": "WriteMethods", "args": { "detail": "SByte"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700127998981,"dur": 2749, "ph":"X", "name": "WriteMethods", "args": { "detail": "Single"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700128001731,"dur": 3180, "ph":"X", "name": "WriteMethods", "args": { "detail": "SpanHelpers"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700128004912,"dur": 60223, "ph":"X", "name": "Flush Stream"},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700128057880,"dur": 6207, "ph":"X", "name": "Write CppDeclarations"},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700128065141,"dur": 665280, "ph":"X", "name": "mscorlib8.cpp"},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700128065148,"dur": 1103, "ph":"X", "name": "WriteMethods", "args": { "detail": "DecoderReplacementFallback"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700128066699,"dur": 1029, "ph":"X", "name": "WriteMethods", "args": { "detail": "Encoder"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700128067730,"dur": 82002, "ph":"X", "name": "WriteMethods", "args": { "detail": "InternalEncoderBestFitFallback"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700128149734,"dur": 1109, "ph":"X", "name": "WriteMethods", "args": { "detail": "InternalEncoderBestFitFallbackBuffer"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700128152996,"dur": 1603, "ph":"X", "name": "WriteMethods", "args": { "detail": "EncoderNLS"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700128156214,"dur": 2996, "ph":"X", "name": "WriteMethods", "args": { "detail": "EncodingNLS"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700128159833,"dur": 1972, "ph":"X", "name": "WriteMethods", "args": { "detail": "Latin1Encoding"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700128161806,"dur": 8641, "ph":"X", "name": "WriteMethods", "args": { "detail": "StringBuilder"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700128170714,"dur": 6635, "ph":"X", "name": "WriteMethods", "args": { "detail": "UTF32Encoding"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700128177529,"dur": 4753, "ph":"X", "name": "WriteMethods", "args": { "detail": "UTF7Encoding"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700128183158,"dur": 8592, "ph":"X", "name": "WriteMethods", "args": { "detail": "UTF8Encoding"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700128192202,"dur": 8481, "ph":"X", "name": "WriteMethods", "args": { "detail": "UnicodeEncoding"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700128200685,"dur": 529733, "ph":"X", "name": "Flush Stream"},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700128725940,"dur": 3459, "ph":"X", "name": "Write CppDeclarations"},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700128730427,"dur": 244877, "ph":"X", "name": "mscorlib10.cpp"},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700128730440,"dur": 2175, "ph":"X", "name": "WriteMethods", "args": { "detail": "RemotingProxy"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700128732617,"dur": 1240, "ph":"X", "name": "WriteMethods", "args": { "detail": "Lease"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700128734124,"dur": 1174, "ph":"X", "name": "WriteMethods", "args": { "detail": "LeaseManager"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700128736213,"dur": 4376, "ph":"X", "name": "WriteMethods", "args": { "detail": "Context"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700128742917,"dur": 4897, "ph":"X", "name": "WriteMethods", "args": { "detail": "ChannelServices"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700128748531,"dur": 1137, "ph":"X", "name": "WriteMethods", "args": { "detail": "CrossAppDomainSink"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700128750398,"dur": 1485, "ph":"X", "name": "WriteMethods", "args": { "detail": "ActivationServices"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700128752420,"dur": 1547, "ph":"X", "name": "WriteMethods", "args": { "detail": "ContextLevelActivator"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700128756320,"dur": 1460, "ph":"X", "name": "WriteMethods", "args": { "detail": "LogicalCallContext"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700128758778,"dur": 1148, "ph":"X", "name": "WriteMethods", "args": { "detail": "AsyncResult"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700128761022,"dur": 24803, "ph":"X", "name": "WriteMethods", "args": { "detail": "CADMessageBase"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700128787631,"dur": 1084, "ph":"X", "name": "WriteMethods", "args": { "detail": "ConstructionCall"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700128790279,"dur": 3223, "ph":"X", "name": "WriteMethods", "args": { "detail": "MethodCall"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700128793672,"dur": 2209, "ph":"X", "name": "WriteMethods", "args": { "detail": "MessageDictionary"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700128796563,"dur": 2389, "ph":"X", "name": "WriteMethods", "args": { "detail": "MethodResponse"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700128799170,"dur": 2212, "ph":"X", "name": "WriteMethods", "args": { "detail": "MonoMethodMessage"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700128802098,"dur": 1232, "ph":"X", "name": "WriteMethods", "args": { "detail": "ReturnMessage"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700128804180,"dur": 1037, "ph":"X", "name": "WriteMethods", "args": { "detail": "StackBuilderSink"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700128806462,"dur": 1237, "ph":"X", "name": "WriteMethods", "args": { "detail": "SerializationEventHandler"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700128808542,"dur": 1029, "ph":"X", "name": "WriteMethods", "args": { "detail": "SerializationEvents"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700128810689,"dur": 3640, "ph":"X", "name": "WriteMethods", "args": { "detail": "FormatterServices"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700128814571,"dur": 98985, "ph":"X", "name": "WriteMethods", "args": { "detail": "ObjectIDGenerator"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700128913557,"dur": 61745, "ph":"X", "name": "Flush Stream"},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700128932123,"dur": 19853, "ph":"X", "name": "Write CppDeclarations"},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700128975309,"dur": 82113, "ph":"X", "name": "mscorlib17.cpp"},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700128976045,"dur": 2579, "ph":"X", "name": "WriteMethods", "args": { "detail": "IdnMapping"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700128978625,"dur": 2795, "ph":"X", "name": "WriteMethods", "args": { "detail": "Bootstring"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700128981540,"dur": 1952, "ph":"X", "name": "WriteMethods", "args": { "detail": "RegionInfo"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700128985193,"dur": 2720, "ph":"X", "name": "WriteMethods", "args": { "detail": "StackTrace"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700128989245,"dur": 1966, "ph":"X", "name": "WriteMethods", "args": { "detail": "Comparer"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700128992099,"dur": 1027, "ph":"X", "name": "WriteMethods", "args": { "detail": "ListDictionaryInternal"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700128994087,"dur": 1785, "ph":"X", "name": "WriteMethods", "args": { "detail": "Queue"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700128996425,"dur": 2106, "ph":"X", "name": "WriteMethods", "args": { "detail": "Stack"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700128999008,"dur": 33981, "ph":"X", "name": "WriteMethods", "args": { "detail": "ArrayList"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700129033663,"dur": 9346, "ph":"X", "name": "WriteMethods", "args": { "detail": "Hashtable"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700129045518,"dur": 2350, "ph":"X", "name": "WriteMethods", "args": { "detail": "ByteEqualityComparer"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700129050116,"dur": 7305, "ph":"X", "name": "Flush Stream"},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700129052397,"dur": 4267, "ph":"X", "name": "Write CppDeclarations"},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700129057426,"dur": 194885, "ph":"X", "name": "GenericMethods1.cpp"},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700129069510,"dur": 63556, "ph":"X", "name": "WriteGenericMethodDefinition", "args": { "detail": "InternalArray__IEnumerable_GetEnumerator"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700129166947,"dur": 1765, "ph":"X", "name": "WriteGenericMethodDefinition", "args": { "detail": "InternalArray__get_Item"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700129168716,"dur": 34815, "ph":"X", "name": "WriteGenericMethodDefinition", "args": { "detail": "InternalArray__get_Item"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700129204808,"dur": 1120, "ph":"X", "name": "WriteGenericMethodDefinition", "args": { "detail": "InternalArray__get_Item"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700129230551,"dur": 21759, "ph":"X", "name": "Flush Stream"},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700129234472,"dur": 16495, "ph":"X", "name": "Write CppDeclarations"},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700129252314,"dur": 25913, "ph":"X", "name": "Generics5.cpp"},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700129252320,"dur": 20011, "ph":"X", "name": "WriteGenericInstanceType", "args": { "detail": "Vector`1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700129273694,"dur": 4532, "ph":"X", "name": "Flush Stream"},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700129275505,"dur": 2320, "ph":"X", "name": "Write CppDeclarations"},
+{ "pid": "il2cpp_in_graph", "tid": 29,"ts": 1663700129278229,"dur": 66346, "ph":"X", "name": "Idle Conversion"},
+{ "pid": "il2cpp_in_graph", "tid": 16, "ph":"M", "name": "thread_name", "args": {"name": "PhaseWorker"} },
+{ "pid": "il2cpp_in_graph", "tid": 16,"ts": 1663700129373329,"dur": 5508, "ph":"X", "name": "Create Forked Context"},
+{ "pid": "il2cpp_in_graph", "tid": 16,"ts": 1663700129376514,"dur": 1261, "ph":"X", "name": "Fork Component", "args": { "detail": "Unity.IL2CPP.Contexts.Components.WrapperForDelegateFromManagedToNativeComponent"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 16,"ts": 1663700129379258,"dur": 2167, "ph":"X", "name": "Sort Metadata"},
+{ "pid": "il2cpp_in_graph", "tid": 16,"ts": 1663700129379790,"dur": 1634, "ph":"X", "name": "Group Types"},
+{ "pid": "il2cpp_in_graph", "tid": 16,"ts": 1663700129381427,"dur": 3107, "ph":"X", "name": "Collect Invokers", "args": { "detail": "Generic Methods"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 16,"ts": 1663700129384948,"dur": 4718, "ph":"X", "name": "Collect Invokers", "args": { "detail": "mscorlib"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 16,"ts": 1663700129390633,"dur": 12296, "ph":"X", "name": "Merge Invokers"},
+{ "pid": "il2cpp_in_graph", "tid": 15, "ph":"M", "name": "thread_name", "args": {"name": "PhaseWorker"} },
+{ "pid": "il2cpp_in_graph", "tid": 15,"ts": 1663700129373441,"dur": 5425, "ph":"X", "name": "Create Forked Context"},
+{ "pid": "il2cpp_in_graph", "tid": 15,"ts": 1663700129379407,"dur": 5053, "ph":"X", "name": "Collect Invokers", "args": { "detail": "Generic Methods"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 15,"ts": 1663700129384982,"dur": 1148, "ph":"X", "name": "Collect Invokers", "args": { "detail": "UnityEngine.CoreModule"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 15,"ts": 1663700129386190,"dur": 4367, "ph":"X", "name": "Collect Method Tables", "args": { "detail": "Collect Method Tables (Chunk)"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 15,"ts": 1663700129391044,"dur": 4307, "ph":"X", "name": "Merge Method Tables"},
+{ "pid": "il2cpp_in_graph", "tid": 15,"ts": 1663700129395353,"dur": 8133, "ph":"X", "name": "Idle Conversion"},
+{ "pid": "il2cpp_in_graph", "tid": 14, "ph":"M", "name": "thread_name", "args": {"name": "PhaseWorker"} },
+{ "pid": "il2cpp_in_graph", "tid": 14,"ts": 1663700129373527,"dur": 5477, "ph":"X", "name": "Create Forked Context"},
+{ "pid": "il2cpp_in_graph", "tid": 14,"ts": 1663700129376524,"dur": 1657, "ph":"X", "name": "Fork Component", "args": { "detail": "Unity.IL2CPP.Contexts.Components.WrapperForDelegateFromManagedToNativeComponent"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 14,"ts": 1663700129380417,"dur": 4191, "ph":"X", "name": "Collect Invokers", "args": { "detail": "Generic Methods"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 14,"ts": 1663700129386181,"dur": 3124, "ph":"X", "name": "Collect Method Tables", "args": { "detail": "Collect Method Tables (Chunk)"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 14,"ts": 1663700129391592,"dur": 8792, "ph":"X", "name": "Collect Generic Instances"},
+{ "pid": "il2cpp_in_graph", "tid": 14,"ts": 1663700129400388,"dur": 3069, "ph":"X", "name": "Idle Conversion"},
+{ "pid": "il2cpp_in_graph", "tid": 13, "ph":"M", "name": "thread_name", "args": {"name": "PhaseWorker"} },
+{ "pid": "il2cpp_in_graph", "tid": 13,"ts": 1663700129373604,"dur": 5255, "ph":"X", "name": "Create Forked Context"},
+{ "pid": "il2cpp_in_graph", "tid": 13,"ts": 1663700129380399,"dur": 4223, "ph":"X", "name": "Collect Invokers", "args": { "detail": "Generic Methods"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 13,"ts": 1663700129386185,"dur": 3241, "ph":"X", "name": "Collect Method Tables", "args": { "detail": "Collect Method Tables (Chunk)"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 13,"ts": 1663700129390336,"dur": 1991, "ph":"X", "name": "Collect Interop Tables"},
+{ "pid": "il2cpp_in_graph", "tid": 13,"ts": 1663700129392328,"dur": 11139, "ph":"X", "name": "Idle Conversion"},
+{ "pid": "il2cpp_in_graph", "tid": 5, "ph":"M", "name": "thread_name", "args": {"name": "PhaseWorker"} },
+{ "pid": "il2cpp_in_graph", "tid": 5,"ts": 1663700129373722,"dur": 5115, "ph":"X", "name": "Create Forked Context"},
+{ "pid": "il2cpp_in_graph", "tid": 5,"ts": 1663700129379615,"dur": 3706, "ph":"X", "name": "Sort Metadata"},
+{ "pid": "il2cpp_in_graph", "tid": 5,"ts": 1663700129379853,"dur": 3468, "ph":"X", "name": "Sort Method Usages"},
+{ "pid": "il2cpp_in_graph", "tid": 5,"ts": 1663700129383696,"dur": 1467, "ph":"X", "name": "Collect Invokers", "args": { "detail": "Generic Methods"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 5,"ts": 1663700129386177,"dur": 4117, "ph":"X", "name": "Collect Method Tables", "args": { "detail": "Collect Method Tables (Chunk)"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 5,"ts": 1663700129390338,"dur": 1187, "ph":"X", "name": "Collect Field References"},
+{ "pid": "il2cpp_in_graph", "tid": 5,"ts": 1663700129391556,"dur": 11930, "ph":"X", "name": "Idle Conversion"},
+{ "pid": "il2cpp_in_graph", "tid": 6, "ph":"M", "name": "thread_name", "args": {"name": "PhaseWorker"} },
+{ "pid": "il2cpp_in_graph", "tid": 6,"ts": 1663700129373809,"dur": 5032, "ph":"X", "name": "Create Forked Context"},
+{ "pid": "il2cpp_in_graph", "tid": 6,"ts": 1663700129380412,"dur": 4263, "ph":"X", "name": "Collect Invokers", "args": { "detail": "Generic Methods"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 6,"ts": 1663700129386188,"dur": 4114, "ph":"X", "name": "Collect Method Tables", "args": { "detail": "Collect Method Tables (Chunk)"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 6,"ts": 1663700129390344,"dur": 13087, "ph":"X", "name": "Collect String Literals"},
+{ "pid": "il2cpp_in_graph", "tid": 30, "ph":"M", "name": "thread_name", "args": {"name": "PhaseWorker"} },
+{ "pid": "il2cpp_in_graph", "tid": 30,"ts": 1663700129419626,"dur": 6385, "ph":"X", "name": "Create Forked Context"},
+{ "pid": "il2cpp_in_graph", "tid": 30,"ts": 1663700129426334,"dur": 2254, "ph":"X", "name": "Events"},
+{ "pid": "il2cpp_in_graph", "tid": 30,"ts": 1663700129428624,"dur": 6945, "ph":"X", "name": "Fields"},
+{ "pid": "il2cpp_in_graph", "tid": 30,"ts": 1663700129435614,"dur": 1488, "ph":"X", "name": "Nested Types & Interfaces"},
+{ "pid": "il2cpp_in_graph", "tid": 30,"ts": 1663700129437139,"dur": 8954, "ph":"X", "name": "VTables"},
+{ "pid": "il2cpp_in_graph", "tid": 30,"ts": 1663700129455430,"dur": 2634, "ph":"X", "name": "Idle Conversion"},
+{ "pid": "il2cpp_in_graph", "tid": 30,"ts": 1663700129459596,"dur": 3705, "ph":"X", "name": "Idle Conversion"},
+{ "pid": "il2cpp_in_graph", "tid": 30,"ts": 1663700129463825,"dur": 6164, "ph":"X", "name": "Idle Conversion"},
+{ "pid": "il2cpp_in_graph", "tid": 30,"ts": 1663700129470389,"dur": 72551, "ph":"X", "name": "Write Assembly Code Metadata", "args": { "detail": "mscorlib"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 30,"ts": 1663700129473450,"dur": 69489, "ph":"X", "name": "mscorlib_CodeGen.c"},
+{ "pid": "il2cpp_in_graph", "tid": 30,"ts": 1663700129542944,"dur": 12780, "ph":"X", "name": "Write Assembly Code Metadata", "args": { "detail": "UnityEngine.InputModule"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 30,"ts": 1663700129542976,"dur": 12747, "ph":"X", "name": "UnityEngine.InputModule_CodeGen.c"},
+{ "pid": "il2cpp_in_graph", "tid": 30,"ts": 1663700129555733,"dur": 4358, "ph":"X", "name": "Write Assembly Code Metadata", "args": { "detail": "Assembly-CSharp"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 30,"ts": 1663700129555755,"dur": 4335, "ph":"X", "name": "Assembly-CSharp_CodeGen.c"},
+{ "pid": "il2cpp_in_graph", "tid": 30,"ts": 1663700129564953,"dur": 6428, "ph":"X", "name": "Il2CppGenericInstDefinitions.c"},
+{ "pid": "il2cpp_in_graph", "tid": 30,"ts": 1663700129565328,"dur": 4254, "ph":"X", "name": "Write Declarations"},
+{ "pid": "il2cpp_in_graph", "tid": 30,"ts": 1663700129575662,"dur": 8184, "ph":"X", "name": "Il2CppGenericMethodDefinitions.c"},
+{ "pid": "il2cpp_in_graph", "tid": 30,"ts": 1663700129585779,"dur": 4318, "ph":"X", "name": "Il2CppMetadataRegistration.c"},
+{ "pid": "il2cpp_in_graph", "tid": 30,"ts": 1663700129590100,"dur": 45278, "ph":"X", "name": "Idle Conversion"},
+{ "pid": "il2cpp_in_graph", "tid": 31, "ph":"M", "name": "thread_name", "args": {"name": "PhaseWorker"} },
+{ "pid": "il2cpp_in_graph", "tid": 31,"ts": 1663700129420060,"dur": 5954, "ph":"X", "name": "Create Forked Context"},
+{ "pid": "il2cpp_in_graph", "tid": 31,"ts": 1663700129433505,"dur": 13662, "ph":"X", "name": "Properties"},
+{ "pid": "il2cpp_in_graph", "tid": 31,"ts": 1663700129447971,"dur": 5168, "ph":"X", "name": "Il2CppInvokerTable", "args": { "detail": "Transform"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 31,"ts": 1663700129455687,"dur": 2796, "ph":"X", "name": "Il2CppReversePInvokeWrapperTable.cpp"},
+{ "pid": "il2cpp_in_graph", "tid": 31,"ts": 1663700129459570,"dur": 3731, "ph":"X", "name": "Idle Conversion"},
+{ "pid": "il2cpp_in_graph", "tid": 31,"ts": 1663700129464040,"dur": 2363, "ph":"X", "name": "Il2CppGenericAdjustorThunkTable.c"},
+{ "pid": "il2cpp_in_graph", "tid": 31,"ts": 1663700129466405,"dur": 1829, "ph":"X", "name": "Idle Conversion"},
+{ "pid": "il2cpp_in_graph", "tid": 31,"ts": 1663700129468237,"dur": 1841, "ph":"X", "name": "Idle Conversion"},
+{ "pid": "il2cpp_in_graph", "tid": 31,"ts": 1663700129470387,"dur": 46906, "ph":"X", "name": "Write Assembly Code Metadata", "args": { "detail": "System.Configuration"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 31,"ts": 1663700129473594,"dur": 43697, "ph":"X", "name": "System.Configuration_CodeGen.c"},
+{ "pid": "il2cpp_in_graph", "tid": 31,"ts": 1663700129517300,"dur": 18582, "ph":"X", "name": "Write Assembly Code Metadata", "args": { "detail": "UnityEngine.SubsystemsModule"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 31,"ts": 1663700129517324,"dur": 18556, "ph":"X", "name": "UnityEngine.SubsystemsModule_CodeGen.c"},
+{ "pid": "il2cpp_in_graph", "tid": 31,"ts": 1663700129535892,"dur": 18521, "ph":"X", "name": "Write Assembly Code Metadata", "args": { "detail": "UnityEngine.AndroidJNIModule"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 31,"ts": 1663700129535936,"dur": 18477, "ph":"X", "name": "UnityEngine.AndroidJNIModule_CodeGen.c"},
+{ "pid": "il2cpp_in_graph", "tid": 31,"ts": 1663700129554414,"dur": 4649, "ph":"X", "name": "Write Assembly Code Metadata", "args": { "detail": "__Generated"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 31,"ts": 1663700129554422,"dur": 4640, "ph":"X", "name": "__Generated_CodeGen.c"},
+{ "pid": "il2cpp_in_graph", "tid": 31,"ts": 1663700129559073,"dur": 1677, "ph":"X", "name": "Il2CppTypeDefinitions", "args": { "detail": "Write Chunk"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 31,"ts": 1663700129561787,"dur": 22487, "ph":"X", "name": "Il2CppMetadataUsage.c"},
+{ "pid": "il2cpp_in_graph", "tid": 31,"ts": 1663700129567629,"dur": 1084, "ph":"X", "name": "Sort Type Infos "},
+{ "pid": "il2cpp_in_graph", "tid": 31,"ts": 1663700129586529,"dur": 26041, "ph":"X", "name": "Il2CppCCalculateFieldValues.cpp"},
+{ "pid": "il2cpp_in_graph", "tid": 31,"ts": 1663700129591778,"dur": 20252, "ph":"X", "name": "Write CppDeclarations"},
+{ "pid": "il2cpp_in_graph", "tid": 31,"ts": 1663700129612572,"dur": 22771, "ph":"X", "name": "Idle Conversion"},
+{ "pid": "il2cpp_in_graph", "tid": 32, "ph":"M", "name": "thread_name", "args": {"name": "PhaseWorker"} },
+{ "pid": "il2cpp_in_graph", "tid": 32,"ts": 1663700129420143,"dur": 5866, "ph":"X", "name": "Create Forked Context"},
+{ "pid": "il2cpp_in_graph", "tid": 32,"ts": 1663700129426344,"dur": 3047, "ph":"X", "name": "String Literals"},
+{ "pid": "il2cpp_in_graph", "tid": 32,"ts": 1663700129429430,"dur": 14001, "ph":"X", "name": "Generics Data"},
+{ "pid": "il2cpp_in_graph", "tid": 32,"ts": 1663700129429751,"dur": 11749, "ph":"X", "name": "Generic Parameters"},
+{ "pid": "il2cpp_in_graph", "tid": 32,"ts": 1663700129441933,"dur": 1497, "ph":"X", "name": "Generic Containers"},
+{ "pid": "il2cpp_in_graph", "tid": 32,"ts": 1663700129443480,"dur": 16039, "ph":"X", "name": "Assembly & Attribute Data"},
+{ "pid": "il2cpp_in_graph", "tid": 32,"ts": 1663700129444717,"dur": 1564, "ph":"X", "name": "Images"},
+{ "pid": "il2cpp_in_graph", "tid": 32,"ts": 1663700129446282,"dur": 1873, "ph":"X", "name": "Assemblies"},
+{ "pid": "il2cpp_in_graph", "tid": 32,"ts": 1663700129448155,"dur": 2532, "ph":"X", "name": "Field Refs"},
+{ "pid": "il2cpp_in_graph", "tid": 32,"ts": 1663700129451386,"dur": 7437, "ph":"X", "name": "Attribute Data"},
+{ "pid": "il2cpp_in_graph", "tid": 32,"ts": 1663700129459541,"dur": 3818, "ph":"X", "name": "Idle Conversion"},
+{ "pid": "il2cpp_in_graph", "tid": 32,"ts": 1663700129463845,"dur": 6136, "ph":"X", "name": "Idle Conversion"},
+{ "pid": "il2cpp_in_graph", "tid": 32,"ts": 1663700129470398,"dur": 44438, "ph":"X", "name": "Write Assembly Code Metadata", "args": { "detail": "Mono.Security"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 32,"ts": 1663700129473589,"dur": 41246, "ph":"X", "name": "Mono.Security_CodeGen.c"},
+{ "pid": "il2cpp_in_graph", "tid": 32,"ts": 1663700129514839,"dur": 21433, "ph":"X", "name": "Write Assembly Code Metadata", "args": { "detail": "UnityEngine.SharedInternalsModule"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 32,"ts": 1663700129514855,"dur": 21417, "ph":"X", "name": "UnityEngine.SharedInternalsModule_CodeGen.c"},
+{ "pid": "il2cpp_in_graph", "tid": 32,"ts": 1663700129536276,"dur": 19675, "ph":"X", "name": "Write Assembly Code Metadata", "args": { "detail": "Google.XR.Cardboard"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 32,"ts": 1663700129536286,"dur": 19664, "ph":"X", "name": "Google.XR.Cardboard_CodeGen.c"},
+{ "pid": "il2cpp_in_graph", "tid": 32,"ts": 1663700129558050,"dur": 10865, "ph":"X", "name": "Il2CppTypeDefinitions", "args": { "detail": "Write Declarations - Part 1"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 32,"ts": 1663700129570745,"dur": 7362, "ph":"X", "name": "Il2CppTypeDefinitions.c"},
+{ "pid": "il2cpp_in_graph", "tid": 32,"ts": 1663700129570790,"dur": 1473, "ph":"X", "name": "Flush Declarations"},
+{ "pid": "il2cpp_in_graph", "tid": 32,"ts": 1663700129572263,"dur": 1002, "ph":"X", "name": "Write Table"},
+{ "pid": "il2cpp_in_graph", "tid": 32,"ts": 1663700129573660,"dur": 2653, "ph":"X", "name": "Write CppDeclarations"},
+{ "pid": "il2cpp_in_graph", "tid": 32,"ts": 1663700129578745,"dur": 1210, "ph":"X", "name": "Il2CppGenericMethodTable", "args": { "detail": "Write Chunk"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 32,"ts": 1663700129581779,"dur": 2404, "ph":"X", "name": "Il2CppGenericClassTable.c"},
+{ "pid": "il2cpp_in_graph", "tid": 32,"ts": 1663700129582737,"dur": 1301, "ph":"X", "name": "Write CppDeclarations"},
+{ "pid": "il2cpp_in_graph", "tid": 32,"ts": 1663700129585390,"dur": 49915, "ph":"X", "name": "Il2CppCCalculateTypeValues.cpp"},
+{ "pid": "il2cpp_in_graph", "tid": 32,"ts": 1663700129593382,"dur": 38560, "ph":"X", "name": "Write CppDeclarations"},
+{ "pid": "il2cpp_in_graph", "tid": 33, "ph":"M", "name": "thread_name", "args": {"name": "PhaseWorker"} },
+{ "pid": "il2cpp_in_graph", "tid": 33,"ts": 1663700129420249,"dur": 5760, "ph":"X", "name": "Create Forked Context"},
+{ "pid": "il2cpp_in_graph", "tid": 33,"ts": 1663700129426345,"dur": 1490, "ph":"X", "name": "Metadata Strings"},
+{ "pid": "il2cpp_in_graph", "tid": 33,"ts": 1663700129427874,"dur": 11452, "ph":"X", "name": "Parameters"},
+{ "pid": "il2cpp_in_graph", "tid": 33,"ts": 1663700129439369,"dur": 2501, "ph":"X", "name": "Interface Offsets"},
+{ "pid": "il2cpp_in_graph", "tid": 33,"ts": 1663700129441897,"dur": 27734, "ph":"X", "name": "Type Definitions"},
+{ "pid": "il2cpp_in_graph", "tid": 33,"ts": 1663700129471809,"dur": 7522, "ph":"X", "name": "Write Metadata Dat"},
+{ "pid": "il2cpp_in_graph", "tid": 33,"ts": 1663700129479334,"dur": 41084, "ph":"X", "name": "Write Assembly Code Metadata", "args": { "detail": "System.Core"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 33,"ts": 1663700129479358,"dur": 41060, "ph":"X", "name": "System.Core_CodeGen.c"},
+{ "pid": "il2cpp_in_graph", "tid": 33,"ts": 1663700129520423,"dur": 15796, "ph":"X", "name": "Write Assembly Code Metadata", "args": { "detail": "Unity.XR.Management"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 33,"ts": 1663700129520444,"dur": 15774, "ph":"X", "name": "Unity.XR.Management_CodeGen.c"},
+{ "pid": "il2cpp_in_graph", "tid": 33,"ts": 1663700129536221,"dur": 17914, "ph":"X", "name": "Write Assembly Code Metadata", "args": { "detail": "UnityEngine.XRModule"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 33,"ts": 1663700129536229,"dur": 17904, "ph":"X", "name": "UnityEngine.XRModule_CodeGen.c"},
+{ "pid": "il2cpp_in_graph", "tid": 33,"ts": 1663700129554143,"dur": 2748, "ph":"X", "name": "Write Assembly Code Metadata", "args": { "detail": "UnityEngine"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 33,"ts": 1663700129554198,"dur": 2693, "ph":"X", "name": "UnityEngine_CodeGen.c"},
+{ "pid": "il2cpp_in_graph", "tid": 33,"ts": 1663700129564389,"dur": 19740, "ph":"X", "name": "Il2CppCCTypeValuesTable"},
+{ "pid": "il2cpp_in_graph", "tid": 33,"ts": 1663700129575200,"dur": 8926, "ph":"X", "name": "Il2CppCCTypeValuesTable.cpp"},
+{ "pid": "il2cpp_in_graph", "tid": 33,"ts": 1663700129590062,"dur": 19101, "ph":"X", "name": "Il2CppRgctxTable.c"},
+{ "pid": "il2cpp_in_graph", "tid": 33,"ts": 1663700129609176,"dur": 26285, "ph":"X", "name": "Idle Conversion"},
+{ "pid": "il2cpp_in_graph", "tid": 34, "ph":"M", "name": "thread_name", "args": {"name": "PhaseWorker"} },
+{ "pid": "il2cpp_in_graph", "tid": 34,"ts": 1663700129420332,"dur": 5686, "ph":"X", "name": "Create Forked Context"},
+{ "pid": "il2cpp_in_graph", "tid": 34,"ts": 1663700129433505,"dur": 23584, "ph":"X", "name": "Methods"},
+{ "pid": "il2cpp_in_graph", "tid": 34,"ts": 1663700129461072,"dur": 7041, "ph":"X", "name": "Il2CppGenericMethodPointerTable.c"},
+{ "pid": "il2cpp_in_graph", "tid": 34,"ts": 1663700129461701,"dur": 1353, "ph":"X", "name": "Write Declarations"},
+{ "pid": "il2cpp_in_graph", "tid": 34,"ts": 1663700129463055,"dur": 1407, "ph":"X", "name": "Write Table"},
+{ "pid": "il2cpp_in_graph", "tid": 34,"ts": 1663700129468918,"dur": 7720, "ph":"X", "name": "Il2CppInteropDataTable.cpp"},
+{ "pid": "il2cpp_in_graph", "tid": 34,"ts": 1663700129469463,"dur": 5193, "ph":"X", "name": "Write Declarations"},
+{ "pid": "il2cpp_in_graph", "tid": 34,"ts": 1663700129476645,"dur": 39116, "ph":"X", "name": "Write Assembly Code Metadata", "args": { "detail": "System"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 34,"ts": 1663700129476686,"dur": 39074, "ph":"X", "name": "System_CodeGen.c"},
+{ "pid": "il2cpp_in_graph", "tid": 34,"ts": 1663700129515764,"dur": 20616, "ph":"X", "name": "Write Assembly Code Metadata", "args": { "detail": "UnityEngine.CoreModule"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 34,"ts": 1663700129515780,"dur": 20599, "ph":"X", "name": "UnityEngine.CoreModule_CodeGen.c"},
+{ "pid": "il2cpp_in_graph", "tid": 34,"ts": 1663700129536382,"dur": 20178, "ph":"X", "name": "Write Assembly Code Metadata", "args": { "detail": "UnityEngine.AudioModule"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 34,"ts": 1663700129536396,"dur": 20162, "ph":"X", "name": "UnityEngine.AudioModule_CodeGen.c"},
+{ "pid": "il2cpp_in_graph", "tid": 34,"ts": 1663700129559833,"dur": 4779, "ph":"X", "name": "Il2CppTypeDefinitions", "args": { "detail": "Write Declarations - Part 2"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 34,"ts": 1663700129565452,"dur": 20630, "ph":"X", "name": "Il2CppCCFieldValuesTable"},
+{ "pid": "il2cpp_in_graph", "tid": 34,"ts": 1663700129575655,"dur": 10424, "ph":"X", "name": "Il2CppCCFieldValuesTable.cpp"},
+{ "pid": "il2cpp_in_graph", "tid": 34,"ts": 1663700129586083,"dur": 49312, "ph":"X", "name": "Idle Conversion"},
+{ "pid": "il2cpp_in_graph", "tid": 35, "ph":"M", "name": "thread_name", "args": {"name": "PhaseWorker"} },
+{ "pid": "il2cpp_in_graph", "tid": 35,"ts": 1663700129420513,"dur": 5512, "ph":"X", "name": "Create Forked Context"},
+{ "pid": "il2cpp_in_graph", "tid": 35,"ts": 1663700129434558,"dur": 11371, "ph":"X", "name": "Field & Parameter Data"},
+{ "pid": "il2cpp_in_graph", "tid": 35,"ts": 1663700129434946,"dur": 5148, "ph":"X", "name": "Parameter Default Values"},
+{ "pid": "il2cpp_in_graph", "tid": 35,"ts": 1663700129440095,"dur": 4415, "ph":"X", "name": "Field Default Values"},
+{ "pid": "il2cpp_in_graph", "tid": 35,"ts": 1663700129444855,"dur": 1074, "ph":"X", "name": "Field Marshaled Sizes"},
+{ "pid": "il2cpp_in_graph", "tid": 35,"ts": 1663700129445963,"dur": 1664, "ph":"X", "name": "Unresolved Virtual Calls"},
+{ "pid": "il2cpp_in_graph", "tid": 35,"ts": 1663700129457309,"dur": 9449, "ph":"X", "name": "Il2CppInvokerTable.cpp"},
+{ "pid": "il2cpp_in_graph", "tid": 35,"ts": 1663700129458330,"dur": 3193, "ph":"X", "name": "Write Declarations"},
+{ "pid": "il2cpp_in_graph", "tid": 35,"ts": 1663700129461523,"dur": 1326, "ph":"X", "name": "Write Table"},
+{ "pid": "il2cpp_in_graph", "tid": 35,"ts": 1663700129463704,"dur": 1807, "ph":"X", "name": "Write CppDeclarations"},
+{ "pid": "il2cpp_in_graph", "tid": 35,"ts": 1663700129466759,"dur": 3207, "ph":"X", "name": "Idle Conversion"},
+{ "pid": "il2cpp_in_graph", "tid": 35,"ts": 1663700129470406,"dur": 46289, "ph":"X", "name": "Write Assembly Code Metadata", "args": { "detail": "System.Xml"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 35,"ts": 1663700129473600,"dur": 43094, "ph":"X", "name": "System.Xml_CodeGen.c"},
+{ "pid": "il2cpp_in_graph", "tid": 35,"ts": 1663700129516699,"dur": 19183, "ph":"X", "name": "Write Assembly Code Metadata", "args": { "detail": "UnityEngine.PhysicsModule"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 35,"ts": 1663700129516720,"dur": 19160, "ph":"X", "name": "UnityEngine.PhysicsModule_CodeGen.c"},
+{ "pid": "il2cpp_in_graph", "tid": 35,"ts": 1663700129535892,"dur": 18478, "ph":"X", "name": "Write Assembly Code Metadata", "args": { "detail": "UnityEngine.InputLegacyModule"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 35,"ts": 1663700129535936,"dur": 18433, "ph":"X", "name": "UnityEngine.InputLegacyModule_CodeGen.c"},
+{ "pid": "il2cpp_in_graph", "tid": 35,"ts": 1663700129554375,"dur": 5960, "ph":"X", "name": "Write Assembly Code Metadata", "args": { "detail": "UnityEngine.SpatialTracking"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 35,"ts": 1663700129554713,"dur": 5621, "ph":"X", "name": "UnityEngine.SpatialTracking_CodeGen.c"},
+{ "pid": "il2cpp_in_graph", "tid": 35,"ts": 1663700129560661,"dur": 11197, "ph":"X", "name": "Write Global Code Metadata"},
+{ "pid": "il2cpp_in_graph", "tid": 35,"ts": 1663700129565732,"dur": 6118, "ph":"X", "name": "Il2CppCodeRegistration.cpp"},
+{ "pid": "il2cpp_in_graph", "tid": 35,"ts": 1663700129572301,"dur": 1023, "ph":"X", "name": "Il2CppGenericMethodDefinitions", "args": { "detail": "Write Chunk"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 35,"ts": 1663700129575016,"dur": 2627, "ph":"X", "name": "Il2CppGenericMethodTable", "args": { "detail": "Write Chunk"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 35,"ts": 1663700129578411,"dur": 1151, "ph":"X", "name": "Il2CppGenericMethodTable", "args": { "detail": "Write Chunk"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 35,"ts": 1663700129579572,"dur": 1002, "ph":"X", "name": "Il2CppGenericMethodTable", "args": { "detail": "Write Chunk"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 35,"ts": 1663700129581734,"dur": 2606, "ph":"X", "name": "Il2CppGenericMethodTable.c"},
+{ "pid": "il2cpp_in_graph", "tid": 35,"ts": 1663700129584710,"dur": 50774, "ph":"X", "name": "Idle Conversion"},
+{ "pid": "il2cpp_in_graph", "tid": 0, "ph":"M", "name": "thread_name", "args": {"name": "GC"} },
+{ "pid": "il2cpp_in_graph", "tid": 0,"ts": 1663700126553000,"dur": 14000, "ph":"X", "name": "GC - Gen 0", "args": { "detail": "Reason: SOH allocation, Type: Blocking GC"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 0,"ts": 1663700127940000,"dur": 32000, "ph":"X", "name": "GC - Gen 0", "args": { "detail": "Reason: SOH allocation, Type: Blocking GC"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 0,"ts": 1663700128229000,"dur": 7000, "ph":"X", "name": "GC - Gen 0", "args": { "detail": "Reason: SOH allocation, Type: Blocking GC"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 0,"ts": 1663700128772000,"dur": 12000, "ph":"X", "name": "GC - Gen 0", "args": { "detail": "Reason: SOH allocation, Type: Blocking GC"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 0,"ts": 1663700128963000,"dur": 6000, "ph":"X", "name": "GC - Gen 0", "args": { "detail": "Reason: SOH allocation, Type: Blocking GC"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 0,"ts": 1663700129130000,"dur": 6000, "ph":"X", "name": "GC - Gen 0", "args": { "detail": "Reason: SOH allocation, Type: Blocking GC"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 0,"ts": 1663700129242000,"dur": 7000, "ph":"X", "name": "GC - Gen 0", "args": { "detail": "Reason: SOH allocation, Type: Blocking GC"}
+},
+{ "pid": "il2cpp_in_graph", "tid": 0,"ts": 1663700129312000,"dur": 5000, "ph":"X", "name": "GC - Gen 0", "args": { "detail": "Reason: SOH allocation, Type: Blocking GC"}
+},
+{ "pid": "il2cpp_in_graph", "tid": -1, "ph":"M", "name": "thread_name", "args": {"name": "GC"} },
+{ "pid": "il2cpp_in_graph", "tid": -1,"ts": 1663700127442000,"dur": 350000, "ph":"X", "name": "GC - Gen 1", "args": { "detail": "Reason: SOH allocation, Type: Blocking GC"}
+},
+{ "pid": "il2cpp_in_graph", "tid": -1,"ts": 1663700128073000,"dur": 79000, "ph":"X", "name": "GC - Gen 1", "args": { "detail": "Reason: SOH allocation, Type: Blocking GC"}
+},
+{ "pid": "il2cpp_in_graph", "tid": -1,"ts": 1663700128875000,"dur": 32000, "ph":"X", "name": "GC - Gen 1", "args": { "detail": "Reason: SOH allocation, Type: Blocking GC during background GC"}
+},
+{ "pid": "il2cpp_in_graph", "tid": -1,"ts": 1663700129021000,"dur": 10000, "ph":"X", "name": "GC - Gen 1", "args": { "detail": "Reason: SOH allocation, Type: Blocking GC"}
+},
+{ "pid": "il2cpp_in_graph", "tid": -1,"ts": 1663700129172000,"dur": 32000, "ph":"X", "name": "GC - Gen 1", "args": { "detail": "Reason: SOH allocation, Type: Blocking GC"}
+},
+{ "pid": "il2cpp_in_graph", "tid": -1,"ts": 1663700129600000,"dur": 12000, "ph":"X", "name": "GC - Gen 1", "args": { "detail": "Reason: SOH allocation, Type: Blocking GC"}
+},
+{ "pid": "il2cpp_in_graph", "tid": -2, "ph":"M", "name": "thread_name", "args": {"name": "GC"} },
+{ "pid": "il2cpp_in_graph", "tid": -2,"ts": 1663700127155000,"dur": 74000, "ph":"X", "name": "GC - Gen 2", "args": { "detail": "Reason: LOH allocation, Type: Background GC"}
+},
+{ "pid": "il2cpp_in_graph", "tid": -2,"ts": 1663700127940000,"dur": 133000, "ph":"X", "name": "GC - Gen 2", "args": { "detail": "Reason: SOH allocation, Type: Background GC"}
+},
+{ "pid": "il2cpp_in_graph", "tid": -2,"ts": 1663700128772000,"dur": 149000, "ph":"X", "name": "GC - Gen 2", "args": { "detail": "Reason: SOH allocation, Type: Background GC"}
+},

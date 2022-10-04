@@ -1,0 +1,241 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.BRIA.BRIA"
+4    android:installLocation="preferExternal"
+5    android:versionCode="1"
+6    android:versionName="0.1" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="24"
+9-->C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="31" />
+10-->C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+11
+12    <supports-screens
+12-->C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:3-163
+13        android:anyDensity="true"
+13-->C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:135-160
+14        android:largeScreens="true"
+14-->C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:78-105
+15        android:normalScreens="true"
+15-->C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:49-77
+16        android:smallScreens="true"
+16-->C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:21-48
+17        android:xlargeScreens="true" />
+17-->C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:106-134
+18
+19    <uses-feature
+19-->[:unityLibrary] C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:12:5-54
+20        android:glEsVersion="0x00030000"
+20-->[:unityLibrary] C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:12:19-51
+21        android:required="true" />
+21-->[:GfxPluginCardboard:] C:\Users\vinic\.gradle\caches\transforms-2\files-2.1\848822d17cc49c4fe9962746854d2b80\jetified-GfxPluginCardboard\AndroidManifest.xml:15:9-32
+22    <uses-feature
+22-->[:unityLibrary] C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:13:5-15:36
+23        android:name="android.hardware.vulkan.version"
+23-->[:unityLibrary] C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:14:9-55
+24        android:required="false" />
+24-->[:unityLibrary] C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:15:9-33
+25
+26    <uses-permission android:name="android.permission.INTERNET" />
+26-->[:unityLibrary] C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:17:5-67
+26-->[:unityLibrary] C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:17:22-64
+27
+28    <uses-feature
+28-->[:unityLibrary] C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:19:5-21:36
+29        android:name="android.hardware.sensor.accelerometer"
+29-->[:unityLibrary] C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:20:9-61
+30        android:required="false" />
+30-->[:unityLibrary] C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:21:9-33
+31    <uses-feature
+31-->[:unityLibrary] C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:22:5-24:36
+32        android:name="android.hardware.touchscreen"
+32-->[:unityLibrary] C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:23:9-52
+33        android:required="false" />
+33-->[:unityLibrary] C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:24:9-33
+34    <uses-feature
+34-->[:unityLibrary] C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:25:5-27:36
+35        android:name="android.hardware.touchscreen.multitouch"
+35-->[:unityLibrary] C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:26:9-63
+36        android:required="false" />
+36-->[:unityLibrary] C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:27:9-33
+37    <uses-feature
+37-->[:unityLibrary] C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:28:5-30:36
+38        android:name="android.hardware.touchscreen.multitouch.distinct"
+38-->[:unityLibrary] C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:29:9-72
+39        android:required="false" />
+39-->[:unityLibrary] C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:30:9-33
+40
+41    <uses-permission android:name="android.permission.CAMERA" />
+41-->[:GfxPluginCardboard:] C:\Users\vinic\.gradle\caches\transforms-2\files-2.1\848822d17cc49c4fe9962746854d2b80\jetified-GfxPluginCardboard\AndroidManifest.xml:17:5-65
+41-->[:GfxPluginCardboard:] C:\Users\vinic\.gradle\caches\transforms-2\files-2.1\848822d17cc49c4fe9962746854d2b80\jetified-GfxPluginCardboard\AndroidManifest.xml:17:22-62
+42    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+42-->[:GfxPluginCardboard:] C:\Users\vinic\.gradle\caches\transforms-2\files-2.1\848822d17cc49c4fe9962746854d2b80\jetified-GfxPluginCardboard\AndroidManifest.xml:18:5-81
+42-->[:GfxPluginCardboard:] C:\Users\vinic\.gradle\caches\transforms-2\files-2.1\848822d17cc49c4fe9962746854d2b80\jetified-GfxPluginCardboard\AndroidManifest.xml:18:22-78
+43    <uses-permission android:name="android.permission.NFC" />
+43-->[:GfxPluginCardboard:] C:\Users\vinic\.gradle\caches\transforms-2\files-2.1\848822d17cc49c4fe9962746854d2b80\jetified-GfxPluginCardboard\AndroidManifest.xml:20:5-62
+43-->[:GfxPluginCardboard:] C:\Users\vinic\.gradle\caches\transforms-2\files-2.1\848822d17cc49c4fe9962746854d2b80\jetified-GfxPluginCardboard\AndroidManifest.xml:20:22-59
+44
+45    <application
+45-->C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:3-83
+46        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+46-->[androidx.core:core:1.7.0] C:\Users\vinic\.gradle\caches\transforms-2\files-2.1\f243f87f287fb4f4052bd069a9b71980\core-1.7.0\AndroidManifest.xml:24:18-86
+47        android:extractNativeLibs="true"
+47-->[:unityLibrary] C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:32:18-50
+48        android:icon="@mipmap/app_icon"
+48-->C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:49-80
+49        android:label="@string/app_name" >
+49-->C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:16-48
+50        <activity
+50-->[:unityLibrary] C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:33:9-54:20
+51            android:name="com.unity3d.player.UnityPlayerActivity"
+51-->[:unityLibrary] C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:34:13-66
+52            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+52-->[:unityLibrary] C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:35:13-194
+53            android:exported="true"
+53-->[:unityLibrary] C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:36:13-36
+54            android:hardwareAccelerated="false"
+54-->[:unityLibrary] C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:37:13-48
+55            android:launchMode="singleTask"
+55-->[:unityLibrary] C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:38:13-44
+56            android:resizeableActivity="false"
+56-->[:unityLibrary] C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:39:13-47
+57            android:screenOrientation="landscape"
+57-->[:unityLibrary] C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:40:13-50
+58            android:theme="@style/UnityThemeSelector" >
+58-->[:unityLibrary] C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:41:13-54
+59            <intent-filter>
+59-->[:unityLibrary] C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:42:13-46:29
+60                <action android:name="android.intent.action.MAIN" />
+60-->[:unityLibrary] C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:43:17-69
+60-->[:unityLibrary] C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:43:25-66
+61
+62                <category android:name="android.intent.category.LAUNCHER" />
+62-->[:unityLibrary] C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:45:17-77
+62-->[:unityLibrary] C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:45:27-74
+63            </intent-filter>
+64
+65            <meta-data
+65-->[:unityLibrary] C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:48:13-50:40
+66                android:name="unityplayer.UnityActivity"
+66-->[:unityLibrary] C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:49:17-57
+67                android:value="true" />
+67-->[:unityLibrary] C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:50:17-37
+68            <meta-data
+68-->[:unityLibrary] C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:51:13-53:40
+69                android:name="android.notch_support"
+69-->[:unityLibrary] C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:52:17-53
+70                android:value="true" />
+70-->[:unityLibrary] C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:53:17-37
+71        </activity>
+72
+73        <meta-data
+73-->[:unityLibrary] C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:56:9-58:33
+74            android:name="unity.splash-mode"
+74-->[:unityLibrary] C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:57:13-45
+75            android:value="0" />
+75-->[:unityLibrary] C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:58:13-30
+76        <meta-data
+76-->[:unityLibrary] C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:59:9-61:36
+77            android:name="unity.splash-enable"
+77-->[:unityLibrary] C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:60:13-47
+78            android:value="True" />
+78-->[:unityLibrary] C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:61:13-33
+79        <meta-data
+79-->[:unityLibrary] C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:62:9-64:36
+80            android:name="unity.launch-fullscreen"
+80-->[:unityLibrary] C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:63:13-51
+81            android:value="True" />
+81-->[:unityLibrary] C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:64:13-33
+82        <meta-data
+82-->[:unityLibrary] C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:65:9-67:37
+83            android:name="unity.allow-resizable-window"
+83-->[:unityLibrary] C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:66:13-56
+84            android:value="False" />
+84-->[:unityLibrary] C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:67:13-34
+85        <meta-data
+85-->[:unityLibrary] C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:68:9-70:50
+86            android:name="notch.config"
+86-->[:unityLibrary] C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:69:13-40
+87            android:value="portrait|landscape" />
+87-->[:unityLibrary] C:\Users\vinic\Desktop\BRIA\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:70:13-47
+88
+89        <activity
+89-->[:GfxPluginCardboard:] C:\Users\vinic\.gradle\caches\transforms-2\files-2.1\848822d17cc49c4fe9962746854d2b80\jetified-GfxPluginCardboard\AndroidManifest.xml:23:9-27:66
+90            android:name="com.google.cardboard.sdk.QrCodeCaptureActivity"
+90-->[:GfxPluginCardboard:] C:\Users\vinic\.gradle\caches\transforms-2\files-2.1\848822d17cc49c4fe9962746854d2b80\jetified-GfxPluginCardboard\AndroidManifest.xml:24:13-74
+91            android:exported="false"
+91-->[:GfxPluginCardboard:] C:\Users\vinic\.gradle\caches\transforms-2\files-2.1\848822d17cc49c4fe9962746854d2b80\jetified-GfxPluginCardboard\AndroidManifest.xml:25:13-37
+92            android:label="@string/title_activity_qr_code_capture"
+92-->[:GfxPluginCardboard:] C:\Users\vinic\.gradle\caches\transforms-2\files-2.1\848822d17cc49c4fe9962746854d2b80\jetified-GfxPluginCardboard\AndroidManifest.xml:26:13-67
+93            android:theme="@style/Theme.AppCompat.NoActionBar" />
+93-->[:GfxPluginCardboard:] C:\Users\vinic\.gradle\caches\transforms-2\files-2.1\848822d17cc49c4fe9962746854d2b80\jetified-GfxPluginCardboard\AndroidManifest.xml:27:13-63
+94        <!--
+95          Activity whose sole purpose is to update Cardboard device params when a Cardboard V1
+96          NFC tag is detected.
+97        -->
+98        <activity
+98-->[:GfxPluginCardboard:] C:\Users\vinic\.gradle\caches\transforms-2\files-2.1\848822d17cc49c4fe9962746854d2b80\jetified-GfxPluginCardboard\AndroidManifest.xml:33:9-46:20
+99            android:name="com.google.cardboard.sdk.HeadsetDetectionActivity"
+99-->[:GfxPluginCardboard:] C:\Users\vinic\.gradle\caches\transforms-2\files-2.1\848822d17cc49c4fe9962746854d2b80\jetified-GfxPluginCardboard\AndroidManifest.xml:34:13-77
+100            android:exported="true"
+100-->[:GfxPluginCardboard:] C:\Users\vinic\.gradle\caches\transforms-2\files-2.1\848822d17cc49c4fe9962746854d2b80\jetified-GfxPluginCardboard\AndroidManifest.xml:35:13-36
+101            android:label="@string/headset_detection_activity_title" >
+101-->[:GfxPluginCardboard:] C:\Users\vinic\.gradle\caches\transforms-2\files-2.1\848822d17cc49c4fe9962746854d2b80\jetified-GfxPluginCardboard\AndroidManifest.xml:36:13-69
+102
+103            <!-- Handles the Cardboard V1 NFC tag released at Google I/O 2014. -->
+104            <intent-filter>
+104-->[:GfxPluginCardboard:] C:\Users\vinic\.gradle\caches\transforms-2\files-2.1\848822d17cc49c4fe9962746854d2b80\jetified-GfxPluginCardboard\AndroidManifest.xml:39:13-45:29
+105                <action android:name="android.nfc.action.NDEF_DISCOVERED" />
+105-->[:GfxPluginCardboard:] C:\Users\vinic\.gradle\caches\transforms-2\files-2.1\848822d17cc49c4fe9962746854d2b80\jetified-GfxPluginCardboard\AndroidManifest.xml:40:17-77
+105-->[:GfxPluginCardboard:] C:\Users\vinic\.gradle\caches\transforms-2\files-2.1\848822d17cc49c4fe9962746854d2b80\jetified-GfxPluginCardboard\AndroidManifest.xml:40:25-74
+106
+107                <category android:name="android.intent.category.DEFAULT" />
+107-->[:GfxPluginCardboard:] C:\Users\vinic\.gradle\caches\transforms-2\files-2.1\848822d17cc49c4fe9962746854d2b80\jetified-GfxPluginCardboard\AndroidManifest.xml:42:17-76
+107-->[:GfxPluginCardboard:] C:\Users\vinic\.gradle\caches\transforms-2\files-2.1\848822d17cc49c4fe9962746854d2b80\jetified-GfxPluginCardboard\AndroidManifest.xml:42:27-73
+108
+109                <data android:scheme="cardboard" />
+109-->[:GfxPluginCardboard:] C:\Users\vinic\.gradle\caches\transforms-2\files-2.1\848822d17cc49c4fe9962746854d2b80\jetified-GfxPluginCardboard\AndroidManifest.xml:44:17-52
+109-->[:GfxPluginCardboard:] C:\Users\vinic\.gradle\caches\transforms-2\files-2.1\848822d17cc49c4fe9962746854d2b80\jetified-GfxPluginCardboard\AndroidManifest.xml:44:23-49
+110            </intent-filter>
+111        </activity>
+112        <activity
+112-->[com.google.android.gms:play-services-base:17.4.0] C:\Users\vinic\.gradle\caches\transforms-2\files-2.1\8bdb0c92999354b2b1d964721d404219\jetified-play-services-base-17.4.0\AndroidManifest.xml:23:9-26:75
+113            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+113-->[com.google.android.gms:play-services-base:17.4.0] C:\Users\vinic\.gradle\caches\transforms-2\files-2.1\8bdb0c92999354b2b1d964721d404219\jetified-play-services-base-17.4.0\AndroidManifest.xml:24:13-79
+114            android:exported="false"
+114-->[com.google.android.gms:play-services-base:17.4.0] C:\Users\vinic\.gradle\caches\transforms-2\files-2.1\8bdb0c92999354b2b1d964721d404219\jetified-play-services-base-17.4.0\AndroidManifest.xml:25:13-37
+115            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+115-->[com.google.android.gms:play-services-base:17.4.0] C:\Users\vinic\.gradle\caches\transforms-2\files-2.1\8bdb0c92999354b2b1d964721d404219\jetified-play-services-base-17.4.0\AndroidManifest.xml:26:13-72
+116
+117        <meta-data
+117-->[com.google.android.gms:play-services-basement:17.4.0] C:\Users\vinic\.gradle\caches\transforms-2\files-2.1\6347463628bd50dd35efaef4ec140c53\jetified-play-services-basement-17.4.0\AndroidManifest.xml:23:9-25:69
+118            android:name="com.google.android.gms.version"
+118-->[com.google.android.gms:play-services-basement:17.4.0] C:\Users\vinic\.gradle\caches\transforms-2\files-2.1\6347463628bd50dd35efaef4ec140c53\jetified-play-services-basement-17.4.0\AndroidManifest.xml:24:13-58
+119            android:value="@integer/google_play_services_version" />
+119-->[com.google.android.gms:play-services-basement:17.4.0] C:\Users\vinic\.gradle\caches\transforms-2\files-2.1\6347463628bd50dd35efaef4ec140c53\jetified-play-services-basement-17.4.0\AndroidManifest.xml:25:13-66
+120
+121        <provider
+121-->[androidx.emoji2:emoji2:1.0.0] C:\Users\vinic\.gradle\caches\transforms-2\files-2.1\0ff7e50bd8b7ebd74d628ddef8c0c85b\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+122            android:name="androidx.startup.InitializationProvider"
+122-->[androidx.emoji2:emoji2:1.0.0] C:\Users\vinic\.gradle\caches\transforms-2\files-2.1\0ff7e50bd8b7ebd74d628ddef8c0c85b\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+123            android:authorities="com.BRIA.BRIA.androidx-startup"
+123-->[androidx.emoji2:emoji2:1.0.0] C:\Users\vinic\.gradle\caches\transforms-2\files-2.1\0ff7e50bd8b7ebd74d628ddef8c0c85b\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+124            android:exported="false" >
+124-->[androidx.emoji2:emoji2:1.0.0] C:\Users\vinic\.gradle\caches\transforms-2\files-2.1\0ff7e50bd8b7ebd74d628ddef8c0c85b\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+125            <meta-data
+125-->[androidx.emoji2:emoji2:1.0.0] C:\Users\vinic\.gradle\caches\transforms-2\files-2.1\0ff7e50bd8b7ebd74d628ddef8c0c85b\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+126                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+126-->[androidx.emoji2:emoji2:1.0.0] C:\Users\vinic\.gradle\caches\transforms-2\files-2.1\0ff7e50bd8b7ebd74d628ddef8c0c85b\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+127                android:value="androidx.startup" />
+127-->[androidx.emoji2:emoji2:1.0.0] C:\Users\vinic\.gradle\caches\transforms-2\files-2.1\0ff7e50bd8b7ebd74d628ddef8c0c85b\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+128            <meta-data
+128-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\vinic\.gradle\caches\transforms-2\files-2.1\e06841608eedd99949a590a817674784\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+129                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+129-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\vinic\.gradle\caches\transforms-2\files-2.1\e06841608eedd99949a590a817674784\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+130                android:value="androidx.startup" />
+130-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\vinic\.gradle\caches\transforms-2\files-2.1\e06841608eedd99949a590a817674784\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+131        </provider>
+132    </application>
+133
+134</manifest>

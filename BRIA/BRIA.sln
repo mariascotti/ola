@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{fab30d29-25b1-e61a-e198-657154af7835}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Google.XR.Cardboard", "Google.XR.Cardboard.csproj", "{a2a60034-9666-fd15-38ef-17d3ad5473e9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Google.XR.Cardboard.Editor", "Google.XR.Cardboard.Editor.csproj", "{4e093f4c-4f09-c0d2-31e9-b88dff498c7d}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{fab30d29-25b1-e61a-e198-657154af7835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{fab30d29-25b1-e61a-e198-657154af7835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{a2a60034-9666-fd15-38ef-17d3ad5473e9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{a2a60034-9666-fd15-38ef-17d3ad5473e9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4e093f4c-4f09-c0d2-31e9-b88dff498c7d}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4e093f4c-4f09-c0d2-31e9-b88dff498c7d}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
